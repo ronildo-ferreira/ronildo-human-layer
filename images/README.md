@@ -23,4 +23,4 @@ The avatar is intentionally stylized instead of using a real photograph in order
 
 Images in this folder can be referenced in Markdown files like this:
 
-<img src="images/ronildo-avatar.png" width="200">
+<img src="ronildo-avatar.png" width="200">
