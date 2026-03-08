@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td width="60%" valign="top">
+  
 # Ronildo Ferreira
 
 Human Layer of the Zaion Ecosystem.
@@ -16,6 +20,16 @@ Other parts of the ecosystem:
 • Zahroniel — educational projects  
 • Zaion — web development  
 • Kael Élodie Whitmore — artificial intelligence  
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="images/ronildo-avatar.png" width="250">
+
+</td>
+</tr>
+</table>
 
 Technology is not only about machines and code.
 It is about people learning how to live in a changing world.
