@@ -1,4 +1,5 @@
-# Human Layer
+Technology is not only about machines and code.
+It is about people learning how to live in a changing world.
 
 Technology evolves.
 Systems grow.
