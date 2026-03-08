@@ -13,7 +13,7 @@ Here I reflect on:
 
 Other parts of the ecosystem:
 
-• Zahroniel — educational projects
+• Zahroniel — educational projects  
 • Zaion — web development  
 • Kael Élodie Whitmore — artificial intelligence  
 
