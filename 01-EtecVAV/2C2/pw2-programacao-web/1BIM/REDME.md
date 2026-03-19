@@ -1,4 +1,4 @@
-# 📅 Cronograma de Entrega de Atividades
+# 📅 Cronograma de Entrega de Atividades (1 Bimestre)
 
 
 Este documento apresenta as datas e orientações para a entrega das atividades das disciplinas.
