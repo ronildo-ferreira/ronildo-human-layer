@@ -1,0 +1,37 @@
+# 📅 Cronograma de Entrega de Atividades
+
+
+Este documento apresenta as datas e orientações para a entrega das atividades das disciplinas.
+
+É responsabilidade do aluno acompanhar este cronograma e cumprir os prazos estabelecidos.
+
+---
+
+## 📌 Orientações Importantes
+
+- As atividades devem ser entregues no local indicado.
+- O não cumprimento do prazo pode impactar na nota e na presença.
+- A organização do repositório deve seguir as instruções da atividade.
+- O envio deve ser realizado pelo GitHub do grupo, conforme solicitado.
+
+---
+- Turma: 
+- Disciplina: 
+## 📋 Cronograma - 1 Bimestre
+
+
+| Menção | Tipo| Atividade | Data Entrega |Link |
+|--------|-----|-----|-----|-|
+| M1 | Questionário| ATV-ACAD-TCC-001-plano-de-pesquisa.md| 30/03/206|[Abrir]() |
+
+---
+
+## ⚠️ Atenção
+
+- Verifique se todos os arquivos estão dentro da pasta correta.
+- Confirme se o repositório foi atualizado antes da data limite.
+- Certifique-se de que todos os integrantes do grupo participaram da atividade.
+
+---
+
+Manter organização e pontualidade faz parte da avaliação.

@@ -1,0 +1,57 @@
+# 📅 Cronograma de Entrega de Atividades
+
+
+Este documento apresenta as datas e orientações para a entrega das atividades das disciplinas.
+
+É responsabilidade do aluno acompanhar este cronograma e cumprir os prazos estabelecidos.
+
+---
+
+## 📌 Orientações Importantes
+
+- As atividades devem ser entregues no local indicado.
+- O não cumprimento do prazo pode impactar na nota e na presença.
+- A organização do repositório deve seguir as instruções da atividade.
+- O envio deve ser realizado pelo GitHub do grupo, conforme solicitado.
+
+---
+- Turma: 1C3
+- Disciplina: PW1 - PROGRAMAÇÃO WEB I
+## 📋 Cronograma - 1 Bimestre
+
+
+| Menção | Tipo| Atividade | Data Entrega |Link | Obs|
+|--------|-----|-----|-----|-|-|
+| M1 | Questionário| ACT-HTML-001-introducao-web-e-seus-padroes.md| 30/03/206|[Abrir]() | |
+| M2-1 | Site 1 | ACT-HTML-002-const-site-origens-internt-html.md| 30/03/206|[Abrir]() | |
+| M2-2 | Site 2 | ACT-HTML-002-const-site-origens-internt-html.md| 30/03/206|[Abrir]() | |
+| M2-3 | Site 3 | não divulgado | 30/03/206|[Abrir]() | |
+| M3 | Portfólio| Análise do Github do grupo | 30/03/206|[Abrir]() | |
+
+---
+
+## ⚠️ Atenção
+
+- Verifique se todos os arquivos estão dentro da pasta correta.
+- Confirme se o repositório foi atualizado antes da data limite.
+- Certifique-se de que todos os integrantes do grupo participaram da atividade.
+
+
+## Manter organização e pontualidade faz parte da avaliação.
+
+
+
+#### Uso do GitHub
+
+- cada aluno deve realizar **seus próprios commits**
+- o histórico de commits deve demonstrar colaboração
+- evitar realizar apenas um único commit final
+
+#### Uso de fontes externas
+
+Caso sejam utilizadas fontes externas:
+
+- incluir as referências utilizadas
+- citar corretamente as fontes consultadas
+- evitar cópia direta sem explicação própria
+
