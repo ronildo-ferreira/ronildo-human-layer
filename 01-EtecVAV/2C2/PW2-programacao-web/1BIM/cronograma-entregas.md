@@ -18,49 +18,19 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 ## 📋 Cronograma
 
-| Semana | Atividade | Link |
-|--------|----------|------|
-| 1 | Variáveis | [Abrir]() |
-| 2 | Condicionais | [Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/fundamentos-da-programacao/portugol/exemplo01.por) |
+---
+- Turma: 2C2
+- Disciplina: PW2 - PROGRAMAÇÃO WEB II
+## 📋 Cronograma - 1 Bimestre
 
 
-| Inst. | Tipo| Arquivo | Link |
-|--------|-----|-----|------|
-| M1 | Questionário| ATV-ACAD-TCC-001-plano-de-pesquisa.md| [Abrir]() |
-
-
-<table border="1">
-  <tr>
-    <th>Classe</th>
-    <th>Disciplina</th>
-    <th>Data</th>
-    <th>Onde?</th>
-    <th>Atividade</th>
-    <th>Status</th>
-  </tr>
-
-  <tr>
-    <td>2D</td>
-    <td>DDW</td>
-    <td>30/03/2026</td>
-    <td>GitHub do grupo</td>
-    <td><a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/app-inventor/atividades/m2-relatorio-app.md">m2-relatorio-app.md</a></td>
-    <td>No prazo</td>
-  </tr>
-
-  <tr>
-    <td>2D</td>
-    <td>DDW</td>
-    <td>30/03/2026</td>
-    <td>GitHub do grupo</td>
-    <td><a href="https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/app-inventor/atividades/m3-relatorio-app-autoral.md">m3-relatorio-app-autoral.md</a></td>
-    <td>No prazo</td>
-  </tr>
-
-</table>
+| Menção | Tipo| Atividade | Data Entrega |Link | Obs|
+|--------|-----|-----|-----|-|-|
+| M1 | Questionário| ACT-PHP-001-Lista-exercicios.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/php/ACT-PHP-001-Lista-exercicios.md) | |
+| M2 | Lista de Exercícios | ACT-PHP-002-cookie-session.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/php/ACT-PHP-002-cookie-session.md) | |
+| M3 | Portfólio| Análise do Github do grupo | 30/03/206|[Abrir]() | |
 
 ---
-
 ## ⚠️ Atenção
 
 - Verifique se todos os arquivos estão dentro da pasta correta.
