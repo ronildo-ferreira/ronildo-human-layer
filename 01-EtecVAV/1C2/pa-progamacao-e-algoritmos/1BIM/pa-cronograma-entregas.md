@@ -22,7 +22,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Questionário| ... | 30/03/206|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/conceitos/ATV-CON-001-introducao-programaca.md)| |
+| M1 | Questionário| Questinário introd. Progarmação | 30/03/206|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/conceitos/ATV-CON-001-introducao-programacao.md)| |
 | M2 | Lista de Execícios | Exercício de Portugol | 30/03/2026 | [Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/portugol/ATV-POR-001-Lista-execicio-basico.md)|
 | M3 | Portfólio| Análise do Github do grupo | 30/03/206|[Abrir]() | |
 
