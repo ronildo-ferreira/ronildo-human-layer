@@ -26,8 +26,8 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Questionário| ACT-PHP-001-Lista-exercicios.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/php/ACT-PHP-001-Lista-exercicios.md) | |
-| M2 | Lista de Exercícios | ACT-PHP-002-cookie-session.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/php/ACT-PHP-002-cookie-session.md) | |
+| M1 | Lista Aplicativos | ATV-APP-002-Aplicativos-Apostila.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/app-inventor/ATV-APP-002-Aplicativos-Apostila.md) | |
+| M2 | Desen. Aplicativo | ATV-APP-003-Desenv-Aplicativo.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/app-inventor/ATV-APP-003-Desenv-Aplicativo.md) | |
 | M3 | Portfólio| Análise do Github do grupo | 30/03/206|[Abrir]() | |
 
 ---
