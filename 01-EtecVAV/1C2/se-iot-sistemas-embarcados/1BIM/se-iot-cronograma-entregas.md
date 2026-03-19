@@ -15,7 +15,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 - O envio deve ser realizado pelo GitHub do grupo, conforme solicitado.
 
 ---
-- Turma: 1C3
+- Turma: 1C2
 - Disciplina: SE - SISTEMAS EMBARCADOS E IOT
 ## 📋 Cronograma - 1 Bimestre
 
