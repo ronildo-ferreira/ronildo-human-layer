@@ -1,4 +1,4 @@
-# 📅 Cronograma de Entrega de Atividades
+# 📅 Cronograma de Entrega de Atividades (1 Bimestre)
 
 
 Este documento apresenta as datas e orientações para a entrega das atividades das disciplinas.
@@ -15,15 +15,19 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 - O envio deve ser realizado pelo GitHub do grupo, conforme solicitado.
 
 ---
-- Turma: 1C2
-- Disciplina: SE - SISTEMAS EMBARCADOS E IOT
+
+## 📋 Cronograma
+
+---
+- Turma: 2C
+- Disciplina: PW2 - PROGRAMAÇÃO WEB II
 ## 📋 Cronograma - 1 Bimestre
 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Questionário| ... | 30/03/206|[Abrir]() | |
-| M2 | Site 1 | 1C2_SistEmbarcados_Atividade01.pdf| 30/03/206|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/sistemas-embarcados-iot/1C2_SistEmbarcados_Atividade01.pdf) | |
+| M1 | Questionário| ACT-PHP-001-Lista-exercicios.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/php/ACT-PHP-001-Lista-exercicios.md) | |
+| M2 | Lista de Exercícios | ACT-PHP-002-cookie-session.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/php/ACT-PHP-002-cookie-session.md) | |
 | M3 | Portfólio| Análise do Github do grupo | 30/03/206|[Abrir]() | |
 
 ---
@@ -34,22 +38,6 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 - Confirme se o repositório foi atualizado antes da data limite.
 - Certifique-se de que todos os integrantes do grupo participaram da atividade.
 
+---
 
-## Manter organização e pontualidade faz parte da avaliação.
-
-
-
-#### Uso do GitHub
-
-- cada aluno deve realizar **seus próprios commits**
-- o histórico de commits deve demonstrar colaboração
-- evitar realizar apenas um único commit final
-
-#### Uso de fontes externas
-
-Caso sejam utilizadas fontes externas:
-
-- incluir as referências utilizadas
-- citar corretamente as fontes consultadas
-- evitar cópia direta sem explicação própria
-
+Manter organização e pontualidade faz parte da avaliação.
