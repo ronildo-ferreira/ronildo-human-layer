@@ -15,16 +15,17 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 - O envio deve ser realizado pelo GitHub do grupo, conforme solicitado.
 
 ---
-
 - Turma: 1D
-- Disciplina: PA - PROGRAMAÇÃO E ALGORITIMOS
+- Disciplina: PW1 - PROGRAMAÇÃO WEB I
 ## 📋 Cronograma - 1 Bimestre
 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Questionário| Questinário introd. Progarmação | 30/03/206|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/conceitos/ATV-CON-001-introducao-programacao.md)| |
-| M2 | Lista de Execícios | Exercício de Portugol | 30/03/2026 | [Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/portugol/ATV-POR-001-Lista-execicio-basico.md)|
+| M1 | Questionário| ACT-HTML-001-introducao-web-e-seus-padroes.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/html-css/ACT-HTML-001-introducao-web-e-seus-padroes.md) | |
+| M2-1 | Site 1 | ACT-HTML-002-const-site-origens-internt-html.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/html-css/ACT-HTML-002-const-site-origens-internt-html.md) | |
+| M2-2 | Site 2 | ACT-HTML-002-const-site-origens-internt-html.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/html-css/ACT-HTML-003-const-site-origens-internt-html-revisado.md) | |
+| M2-3 | Site 3 | não divulgado | 30/03/206|[Abrir]() | |
 | M3 | Portfólio| Análise do Github do grupo | 30/03/206|[Abrir]() | |
 
 ---
