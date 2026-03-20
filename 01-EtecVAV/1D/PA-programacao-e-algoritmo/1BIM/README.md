@@ -1,4 +1,4 @@
-# 📅 Cronograma de Entrega de Atividades(1 Bimestre)
+# 📅 Cronograma de Entrega de Atividades (1 Bimestre)
 
 
 Este documento apresenta as datas e orientações para a entrega das atividades das disciplinas.
@@ -16,17 +16,15 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 ---
 
-## 📋 Cronograma
----
-- Turma: 2C
-- Disciplina: PW2 - PROGRAMAÇÃO WEB II
+- Turma: 1D
+- Disciplina: PA - PROGRAMAÇÃO E ALGORITIMOS
 ## 📋 Cronograma - 1 Bimestre
 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Questionário| ACT-PHP-001-Lista-exercicios.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/php/ACT-PHP-001-Lista-exercicios.md) | |
-| M2 | Lista de Exercícios | ACT-PHP-002-cookie-session.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/php/ACT-PHP-002-cookie-session.md) | |
+| M1 | Questionário| Questinário introd. Progarmação | 30/03/206|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/conceitos/ATV-CON-001-introducao-programacao.md)| |
+| M2 | Lista de Execícios | Exercício de Portugol | 30/03/2026 | [Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/portugol/ATV-POR-001-Lista-execicio-basico.md)|
 | M3 | Portfólio| Análise do Github do grupo | 30/03/206|[Abrir]() | |
 
 ---
@@ -37,6 +35,22 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 - Confirme se o repositório foi atualizado antes da data limite.
 - Certifique-se de que todos os integrantes do grupo participaram da atividade.
 
----
 
-Manter organização e pontualidade faz parte da avaliação.
+## Manter organização e pontualidade faz parte da avaliação.
+
+
+
+#### Uso do GitHub
+
+- cada aluno deve realizar **seus próprios commits**
+- o histórico de commits deve demonstrar colaboração
+- evitar realizar apenas um único commit final
+
+#### Uso de fontes externas
+
+Caso sejam utilizadas fontes externas:
+
+- incluir as referências utilizadas
+- citar corretamente as fontes consultadas
+- evitar cópia direta sem explicação própria
+
