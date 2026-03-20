@@ -26,7 +26,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Questionário| ATV-TCC-001-Questionario.md 30/03/2026|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/producao-academica/tcc/ATV-TCC-001-Questionario.md) | |
+| M1 | Questionário| ATV-TCC-001-Questionario.md | 30/03/2026|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/producao-academica/tcc/ATV-TCC-001-Questionario.md) | |
 | M2 | Plano de pesquisa | plano de pesquisa| 30/03/2026|[Abrir]() | |
 | M3 | Portfólio| Análise do Github do grupo | 30/03/2026|[Abrir]() | |
 
