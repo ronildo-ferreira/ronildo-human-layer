@@ -20,13 +20,13 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 ---
 - Turma: 3D
-- Disciplina: DDM Desenvolvimento para Dispositivos Móveis
+- Disciplina: TCC - Trabalho de Conclusão de Curso
 ## 📋 Cronograma - 1 Bimestre
 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Questionário| ACT-PHP-001-Lista-exercicios.md| 30/03/2026|[Abrir]() | |
+| M1 | Questionário| ATV-TCC-001-Questionario.md 30/03/2026|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/producao-academica/tcc/ATV-TCC-001-Questionario.md) | |
 | M2 | Plano de pesquisa | plano de pesquisa| 30/03/2026|[Abrir]() | |
 | M3 | Portfólio| Análise do Github do grupo | 30/03/2026|[Abrir]() | |
 
