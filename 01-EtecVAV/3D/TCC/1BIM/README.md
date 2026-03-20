@@ -19,6 +19,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 ## 📋 Cronograma
 
 ---
+
 - Turma: 3D
 - Disciplina: TCC - Trabalho de Conclusão de Curso
 ## 📋 Cronograma - 1 Bimestre
