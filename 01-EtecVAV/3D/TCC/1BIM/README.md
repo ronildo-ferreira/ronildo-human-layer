@@ -19,16 +19,16 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 ## 📋 Cronograma
 
 ---
-- Turma: 2D
+- Turma: 3D
 - Disciplina: DDM Desenvolvimento para Dispositivos Móveis
 ## 📋 Cronograma - 1 Bimestre
 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Questionário| ACT-PHP-001-Lista-exercicios.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/php/ACT-PHP-001-Lista-exercicios.md) | |
-| M2 | Lista de Exercícios | ACT-PHP-002-cookie-session.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/php/ACT-PHP-002-cookie-session.md) | |
-| M3 | Portfólio| Análise do Github do grupo | 30/03/206|[Abrir]() | |
+| M1 | Questionário| ACT-PHP-001-Lista-exercicios.md| 30/03/2026|[Abrir]() | |
+| M2 | Plano de pesquisa | plano de pesquisa| 30/03/2026|[Abrir]() | |
+| M3 | Portfólio| Análise do Github do grupo | 30/03/2026|[Abrir]() | |
 
 ---
 
