@@ -27,7 +27,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 |--------|-----|-----|-----|-|-|
 | M1 | Questionário| ACT-PHP-001-Lista-exercicios.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/php/ACT-PHP-001-Lista-exercicios.md) | |
 | M2 | Lista de Exercícios | ACT-PHP-002-cookie-session.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/php/ACT-PHP-002-cookie-session.md) | |
-| M3 | Portfólio| Análise do Github do grupo | 30/03/206|[Abrir]() | |
+| M3 | Portfólio| Análise do Github do grupo | 10/04/206|[Abrir]() | |
 
 ---
 
