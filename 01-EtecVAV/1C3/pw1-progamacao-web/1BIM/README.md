@@ -15,6 +15,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 - O envio deve ser realizado pelo GitHub do grupo, conforme solicitado.
 
 ---
+
 - Turma: 1C3
 - Disciplina: PW1 - PROGRAMAÇÃO WEB I
 ## 📋 Cronograma - 1 Bimestre
@@ -25,7 +26,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 | M1 | Questionário| ACT-HTML-001-introducao-web-e-seus-padroes.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/html-css/ACT-HTML-001-introducao-web-e-seus-padroes.md) | |
 | M2-1 | Site 1 | ACT-HTML-002-const-site-origens-internt-html.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/html-css/ACT-HTML-002-const-site-origens-internt-html.md) | |
 | M2-2 | Site 2 | ACT-HTML-002-const-site-origens-internt-html.md| 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/html-css/ACT-HTML-003-const-site-origens-internt-html-revisado.md) | |
-| M2-3 | Site 3 | não divulgado | 30/03/206|[Abrir]() | |
+| M2-3 | Site 3 | ACT-HTML-004-const-site-abril-amarelo.md | 30/03/206|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/html-css/ACT-HTML-004-const-site-abril-amarelo.md) | |
 | M3 | Portfólio| Análise do Github do grupo | 30/03/206|[Abrir]() | |
 
 ---
