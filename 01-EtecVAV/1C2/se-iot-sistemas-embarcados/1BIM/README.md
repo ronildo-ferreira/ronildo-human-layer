@@ -22,9 +22,9 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Questionário| ... | 30/03/206|[Abrir]() | |
-| M2 | Site 1 | 1C2_SistEmbarcados_Atividade01.pdf| 30/03/206|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/sistemas-embarcados-iot/1C2_SistEmbarcados_Atividade01.pdf) | |
-| M3 | Portfólio| Análise do Github do grupo | 10/04/206|[Abrir]() | |
+| M1 | Questionário| ... | 30/03/2026|[Abrir]() | |
+| M2 | Site 1 | 1C2_SistEmbarcados_Atividade01.pdf| 30/03/2026|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/sistemas-embarcados-iot/1C2_SistEmbarcados_Atividade01.pdf) | |
+| M3 | Portfólio| Análise do Github do grupo | 10/04/2026|[Abrir]() | |
 
 ---
 
