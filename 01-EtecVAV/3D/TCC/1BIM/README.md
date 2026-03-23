@@ -19,7 +19,6 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 ## 📋 Cronograma
 
 ---
-
 - Turma: 3D
 - Disciplina: TCC - Trabalho de Conclusão de Curso
 ## 📋 Cronograma - 1 Bimestre
@@ -28,7 +27,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
 | M1 | Questionário| ATV-TCC-001-Questionario.md | 30/03/2026|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/producao-academica/tcc/ATV-TCC-001-Questionario.md) | |
-| M2 | Plano de pesquisa | plano de pesquisa| 30/03/2026|[Abrir]() | |
+| M2 | Plano de pesquisa | plano de pesquisa| 30/03/2026|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/producao-academica/elaboracao-plano-de-pesquisa.md) |Modelo: [modelo-plano-de-pesquisa-(v0.10).docx](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/modelos/tcc/modelo-plano-de-pesquisa-(v0.10).docx) |
 | M3 | Portfólio| Análise do Github do grupo | 10/04/2026|[Abrir]() | |
 
 ---
