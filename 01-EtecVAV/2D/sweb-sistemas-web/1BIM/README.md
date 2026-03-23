@@ -19,8 +19,8 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 ## 📋 Cronograma
 
 ---
-- Turma: 2C
-- Disciplina: PW2 - PROGRAMAÇÃO WEB II
+- Turma: 2D
+- Disciplina: SWEB - Sistemas Web
 ## 📋 Cronograma - 1 Bimestre
 
 
