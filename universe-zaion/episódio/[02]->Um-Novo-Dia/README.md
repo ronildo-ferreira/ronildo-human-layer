@@ -1,8 +1,11 @@
-# Episódio 01 — De Volta às Aulas
+# Episódio 02 — Um novo dia
 
 ## 📖 Leitura
 
-01. [Despertar](De-Volta-às-Aulas-[01]/01-Quarto-do-Zaion,-manhã-cedo.md)  
+01. [Manhã seginte](01-Manhã-seguinte.md) 
+
+
+ 
 02. [Despedida da mãe](De-Volta-às-Aulas-[01]/02-Despedida-da-mãe.md)  
 03. [Entrada da escola](De-Volta-às-Aulas-[01]/03-Entrada-da-escola.md)  
 04. [Tutor legal](De-Volta-às-Aulas-[01]/04-Tutor-legal.md)  
