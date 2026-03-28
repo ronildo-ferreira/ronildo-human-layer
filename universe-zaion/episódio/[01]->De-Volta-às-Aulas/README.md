@@ -2,7 +2,7 @@
 
 ## 📖 Leitura
 
-01. [Despertar](01-Quarto-do-Zaion,-manhã-cedo.md)  
+01. [Despertar](01-Quarto-do-Zaion-manhã-cedo.md)  
 02. [Despedida da mãe](02-Despedida-da-mãe.md)  
 03. [Entrada da escola](03-Entrada-da-escola.md)  
 04. [Tutor legal](04-Tutor-legal.md)  
