@@ -121,7 +121,7 @@ git commit -m "atualização do projeto"
 
 ## CRIAÇÃO DE CONTA
 
-<p align="justify">Para utilizar o GitHub, o usuário deve criar uma conta em <https://github.com>, possibilitando a criação e gerenciamento de repositórios.</p>
+<p align="justify">Para utilizar o GitHub, o usuário deve criar uma conta em https://github.com, possibilitando a criação e gerenciamento de repositórios.</p>
 
 ---
 
