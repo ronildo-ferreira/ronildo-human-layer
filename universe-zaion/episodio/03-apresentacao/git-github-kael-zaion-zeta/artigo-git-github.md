@@ -3,7 +3,7 @@ CTJ - Colégio Técnico Jundiaí - sp<br>
 Técnico em Desenvolvimento de Sistemas – 2026 
 </p>
 
-<p align="right">Artigo desenvolvido na disciplina de Desenvolvimento de Sistemas sob orientação dos professores.</p>
+<p align="right">Artigo desenvolvido na disciplina de Desenvolvimento de Sistemas sob orientação do professor Zahroniel Syrran.</p>
 
 <p align="center">GIT E GITHUB: CONTROLE DE VERSÃO E COLABORAÇÃO EM PROJETOS DE SOFTWARE</p>
 
