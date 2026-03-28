@@ -61,7 +61,7 @@ Palavras-chave: Tecnologia. Versionamento. Git. GitHub. Colaboração.
 
 ## INSTALAÇÃO E DOWNLOAD
 
-<p align="justify">O Git pode ser instalado a partir do site oficial <https://git-scm.com>, estando disponível para diferentes sistemas operacionais.</p>
+<p align="justify">O Git pode ser instalado a partir do site oficial https://git-scm.com, estando disponível para diferentes sistemas operacionais.</p>
 
 <p align="justify">Após a instalação, recomenda-se configurar o usuário:</p>
 
