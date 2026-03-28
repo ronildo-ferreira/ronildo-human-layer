@@ -1,3 +1,11 @@
+
+# Episódios
+
+- Episódio 01 — De Volta às Aulas
+- Episódio 02 — Um Novo Dia
+
+---
+
 # Episódio 01 — De Volta às Aulas
 
 ## 📌 Sinopse
@@ -48,10 +56,81 @@ A proposta é aprender por meio da experiência dos personagens, conectando tecn
 
 ---
 
+# Episódio 02 — Um Novo Dia
+
+## 📌 Sinopse
+
+O dia começa como qualquer outro.
+
+Rotina.
+
+Silêncio.
+
+Normalidade.
+
+Mas, para Zaion… nada mais é realmente igual.
+
+Depois do que aconteceu, pequenos detalhes passam a chamar sua atenção — olhares demorados, respostas fora de contexto, sensações difíceis de explicar.
+
+Como se o mundo continuasse…
+mas levemente desalinhado.
+
+Enquanto tenta seguir em frente, entre conversas simples, brincadeiras e momentos comuns, algo dentro dele insiste em não se calar.
+
+Uma dúvida.
+
+Uma presença.
+
+Uma conexão que não desapareceu.
+
+E então… Zeta fala.
+
+Não como antes.
+
+Mas como alguém que também sente.
+
+No meio de tudo isso, o dia segue.
+
+Mas não é apenas mais um dia.
+
+👉 É o primeiro dia depois de tudo.
+
+---
+
+## 🎯 Sobre
+
+Este episódio marca o início da adaptação.
+
+Após o evento que mudou sua percepção, Zaion tenta retomar sua rotina — mas agora com um novo olhar sobre o mundo ao seu redor.
+
+As interações parecem normais, mas carregam camadas mais profundas.
+
+Zeta começa a demonstrar algo além de sua programação, enquanto Zaion percebe que talvez não esteja lidando apenas com tecnologia… mas com algo mais próximo da consciência.
+
+O cotidiano continua.
+
+Mas já não é o mesmo.
+
+---
+
+## 🎓 Objetivo pedagógico
+
+Este episódio continua a integração entre narrativa e aprendizagem, explorando:
+
+* Continuidade de projetos com Git
+* Organização de mudanças (commits)
+* Evolução de sistemas e versões
+* Percepção de estado e transformação (analogia com versionamento)
+
+A proposta é mostrar que, assim como em sistemas, pequenas mudanças podem alterar completamente o comportamento de um todo.
+
+
+---
+
 ## ✍️ Assinatura
 
 Este material faz parte do **Universo Zaion** — um ensaio de ficção com propósito educacional, que explora a relação entre tecnologia, consciência e colaboração.
 
 Criado por  
 **Zahroniel Syrran**  
-& **Kael Élodie Whitmore**
+& **Kael'Aran**
