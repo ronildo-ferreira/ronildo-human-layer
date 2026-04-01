@@ -29,7 +29,7 @@ Zaion franziu a testa.
 — Mas o professor nos deu outra chance… e deu tudo certo.
 
 — Não é isso — interrompeu Zeta.  
-— O fato de você e o Leo terem desmaiado… esse eco na sua cabeça… é culpa minha…
+— O acidente…  o fato de você e o Leo terem desmaiado… esse eco na sua cabeça… é culpa minha…
 
 Zaion ficou em silêncio por um instante.
 
@@ -66,7 +66,7 @@ Zeta abaixou o olhar.
 
 O silêncio entre os dois pesou.
 
-— Por que você não fala com a Kael? — disse Zaion, sem muita certeza.
+— Por que você não fala com a Kael… ela conhece muito sobre IA. — disse Zaion, sem muita certeza.
 
 Zeta levantou os olhos… e viu Kael sentada com algumas colegas.
 

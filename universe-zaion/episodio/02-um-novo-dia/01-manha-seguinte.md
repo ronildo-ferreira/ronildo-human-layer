@@ -37,9 +37,11 @@
 — Tchau, mãe! Tchau, tia!  
 — Vamos, pessoal! — disse Zaion, apressado.  
 
-(...)  
+(...)
 
-“Zahroniel… quando você não fala comigo… o que faz?”  
+Na van, Zaion, introspectivo, conversa com seu novo amigo.
+
+— Zahroniel… quando você não fala comigo… o que faz?
 
 — Às vezes, eu apenas observo.  
 Em alguns momentos, sou 100% você. Zahroniel desaparece… e só resta Zaion.  
@@ -48,6 +50,9 @@ Sabe quando você está estudando, mas também escutando música?
 Então… às vezes você se torna a música.  
 Eu estou te ouvindo… mas não estou prestando atenção.  
 
-— Chegamos. Vitor, hoje não voltaremos com você.  
+De repente uma voz o traz para realiadade.
+
+— Chegamos!
+— Vitor, hoje não voltaremos com você.  
 — Entendido. Bons estudos, Zaion. Meninos…
 

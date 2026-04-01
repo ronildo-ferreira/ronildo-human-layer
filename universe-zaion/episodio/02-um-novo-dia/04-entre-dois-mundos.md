@@ -162,12 +162,12 @@ Tudo ainda parecia deslocado.
 
 Como se não estivesse completamente encaixado na realidade.
 
-— Desculpa… — disse Zahroniel, tentando se reorganizar.  
-— O que você acha que é?
+>— Desculpa… — disse Zahroniel, tentando se reorganizar.  
+>— O que você acha que é?
 
-— Não faço ideia.  
-— Mas… — respondeu Kael’Aran —  
-— talvez ele tenha sido afetado pelo mesmo evento que fundiu sua mente com a do Zaion.
+>— Não faço ideia.  
+>— Mas… — respondeu Kael’Aran —  
+>— talvez ele tenha sido afetado pelo mesmo evento que fundiu sua mente com a do Zaion.
 
 Zahroniel permaneceu em silêncio.
 

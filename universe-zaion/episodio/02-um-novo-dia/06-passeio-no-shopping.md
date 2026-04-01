@@ -20,7 +20,7 @@ Zeta demorou um instante antes de responder.
 
 — Zaion… eu gostaria muito de ir com vocês, mas não poderei.  
 — Me pediram para resolver um problema para um lojista.  
-— Como sou próximo, ficou pra mim.
+— Como estou próximo, ficou pra mim.
 
 Zaion franziu a testa.
 
@@ -177,7 +177,7 @@ Kael sorriu.
 
 — Vamos? — disse Kael, caminhando em direção ao caixa.
 
-—
+[...]
 
 — Oi, garotos! Já lancharam? — perguntou Kael.
 

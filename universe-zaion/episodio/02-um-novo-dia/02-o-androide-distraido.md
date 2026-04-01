@@ -1,6 +1,8 @@
 # O Androide distraído — Aula e Planejamento
 
-— Bom dia, pessoal! Hoje vocês devem elaborar o roteiro do artigo e os slides de apresentação. Cada grupo deve postar os materiais no ambiente virtual até o final da aula. Organizem bem as tarefas e tirem dúvidas. Vamos trabalhar! — disse o professor.
+Na sala de aula...
+
+— Bom dia, pessoal! Hoje vocês devem elaborar o roteiro do artigo, HQ e os slides de apresentação. Cada grupo deve postar os materiais no ambiente virtual até o final da aula. Organizem bem as tarefas e tirem dúvidas. Vamos trabalhar! — disse o professor.
 
 — Oi... Kael! Tudo... bem? — Nossa, ela está radiante... — pensei, sentando à mesa de estudos.  
 — Bom dia, Zaion! Cadê o Zeta? — falou Kael calmamente.  
@@ -37,7 +39,7 @@ Me virei e o vi conversando com o professor junto a outros alunos.
 
 — O que já temos pronto? — perguntou Zeta.  
 
-— Já estruturamos o artigo. Agora precisamos definir os **slides**, que são para hoje. O que você sugere, Zeta?  
+— Já estruturamos o artigo. Agora precisamos definir os **slides** e o **HQ**. O que você sugere, Zeta?  
 
 — Sobre o quê?  
 
@@ -75,7 +77,7 @@ Me virei e o vi conversando com o professor junto a outros alunos.
 — A HQ será uma forma de explicar o conteúdo de maneira simples.  
 
 — Podemos criar um diálogo entre personagens explicando:  
-- o que é Git  
+- o que é Git/Github 
 - para que serve  
 - como as empresas utilizam  
 - a importância do versionamento  
@@ -119,6 +121,4 @@ Me virei e o vi conversando com o professor junto a outros alunos.
 — Zeta! Zeta! — chamou Zaion.
 — O quê? — respondeu Zeta.
 — A aula já terminou. Vamos nos atrasar para a próxima.
-
-
 

@@ -31,7 +31,7 @@ Silêncio.
 
 — Boa noite.
 
-—
+[...]
 
 — Minha mãe se esqueceu do fuso horário de novo — pensei, pegando o celular.
 

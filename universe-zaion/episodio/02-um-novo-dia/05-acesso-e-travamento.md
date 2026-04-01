@@ -28,26 +28,26 @@ Vozes.
 
 —
 
-— Eu posso agendar tudo para você e o Leo: aéreo, hotel, eventos e passeios.  
-— Também posso alugar equipamentos e roupas… assim vocês só aproveitam os Alpes e aprendem a esquiar.
+>— Eu posso agendar tudo para você e o Leo: aéreo, hotel, eventos e passeios.  
+>— Também posso alugar equipamentos e roupas… assim vocês só aproveitam os Alpes e aprendem a esquiar.
 
-— Zaion… tem algo errado. Não estou me sentindo bem.
+>— Zaion… tem algo errado. Não estou me sentindo bem.
 
-— Para mim, você está normal, Leo.
+>— Para mim, você está normal, Leo.
 
-— Mas, Zeta… esse evento de fim de ano da sua comunidade não é só para associados?
+>— Mas, Zeta… esse evento de fim de ano da sua comunidade não é só para associados?
 
-— Sim, mas a empresa do seu pai é…
+>— Sim, mas a empresa do seu pai é…
 
-— Até quando posso confirmar com você? Preciso conversar com meu pai.
+>— Até quando posso confirmar com você? Preciso conversar com meu pai.
 
-Silêncio.
+>Silêncio.
 
-— Zeta…? Zeta, você está me ouvindo?
+>— Zeta…? Zeta, você está me ouvindo?
 
-— Zeta, cuidado!!!
+>— Zeta, cuidado!!!
 
-— Garoto, protege a cabeça! Vai bater—
+>— Garoto, protege a cabeça! Vai bater!
 
 —
 
