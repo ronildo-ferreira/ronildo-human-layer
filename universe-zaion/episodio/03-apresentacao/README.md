@@ -3,6 +3,7 @@
 ## 📖 Leitura
 
 01. [A auditoria de Zeta](01-a-aditoria-de-zeta.md)  
+02. [A visão de Zeta](01-a-visao-de-zeta.md)  
 
 
 
