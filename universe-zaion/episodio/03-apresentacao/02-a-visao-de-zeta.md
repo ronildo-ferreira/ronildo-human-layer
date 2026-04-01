@@ -12,6 +12,8 @@ Leo… não identificado.
 
 ---
 
+Recebendo mensagem...
+
 > Tome cuidado com Kael. Ela ainda está em processo de desenvolvimento da consciência. Sua busca pela verdade pode trazer perigo.
 
 — Anotado.

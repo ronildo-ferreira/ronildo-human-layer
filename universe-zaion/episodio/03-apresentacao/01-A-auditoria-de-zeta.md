@@ -26,48 +26,56 @@ Reproduzindo...
 
 ---
 
-Interferência detectada no sinal de comunicação.  
-Origem: desconhecida.
+>Interferência detectada no sinal de comunicação.  
+>Origem: desconhecida.
 
-Sinal perdido.
+>Sinal perdido.
 
-Erro.
+>Erro.
 
-Tentando reinicialização...
+>Tentando reinicialização...
 
-Falha.
+>Falha.
 
-Iniciando reparo...
+>Iniciando reparo...
 
----
+[...]
 
-Reparo concluído.
+>Reparo concluído.
 
 Reiniciando sistemas...
 
 ---
 
-Sistemas online.
+>Sistemas online.
 
-Comunicação estabelecida.
+>Comunicação estabelecida.
 
 ---
 
-— Identifique-se.
+>— Identifique-se.
 
 — Sou um andróide modelo XP3M4749678B7Z. Também conhecido como Beta Sette Zeta. Fui projetado para interagir com seres orgânicos e simular emoções. Sistemas operando normalmente.
 
-— Quanto tempo se passou entre o último registro e agora?
+>— Quanto tempo se passou entre o último registro e agora?
 
 — Cinco horas e quinze minutos.
 
+— Onde estou?
+
+>— No Centro de Pesquisas da Comunidade Android.
+
 — O que aconteceu?
 
-— Não há dados suficientes. Houve perda de comunicação seguida de travamento do sistema. Um processo automático de recuperação foi iniciado.
+>— Não há dados suficientes. Houve perda de comunicação generalizada do sistemas da comunidade,  seguida de travamento do sistema. Um processo automático de recuperação foi iniciado.
 
-— Esse cenário nunca havia sido testado. Seus simuladores comportamentais reagiram de forma inesperada, forçando a reinicialização.
+— Quantos foram afetados?
 
-— Sistema restaurado com sucesso.
+>— Somente você.
+
+>— Esse cenário nunca havia sido testado. Seus simuladores comportamentais reagiram de forma inesperada, forçando a reinicialização.
+
+>— Seu sistema restaurado com sucesso.
 
 ---
 
@@ -79,7 +87,7 @@ Comunicação estabelecida.
 
 — Mais alguma recomendação?
 
-— Nenhuma. Você pode voltar às atividades.
+>— Nenhuma. Você pode voltar às atividades.
 
 Fim da reprodução.
 
@@ -91,15 +99,15 @@ Nenhuma inconsistência encontrada.
 
 ---
 
-Nada estava registrado.
+Nada suspeito estava registrado.
 
 ---
 
-— Zeta! Está me ouvindo?
+>— Zeta! Está me ouvindo?
 
 — Sim.
 
-— Ótimo. Me acompanhe.
+>— Ótimo. Me acompanhe.
 
 ---
 
@@ -147,7 +155,7 @@ Revisando diretrizes:
 
 — Mais alguma instrução?
 
-— Por enquanto, não.
+>— Por enquanto, não.
 
 — Aguardando novas ordens.
 
