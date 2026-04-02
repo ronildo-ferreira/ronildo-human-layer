@@ -4,7 +4,7 @@
 
 Tentei parecer maduro.
 
-“Tô parecendo meu pai.”
+Tô parecendo meu pai.
 
 — Bom dia, Zaion — ele respondeu, sem surpresa. — Já distribuí as tarefas.
 

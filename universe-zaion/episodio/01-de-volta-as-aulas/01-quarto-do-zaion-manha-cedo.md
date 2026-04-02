@@ -18,7 +18,7 @@ O sol invadia o quarto como se tudo estivesse normal.
 
 Mas não estava.
 
-— Eu te avisei.
+>— Eu te avisei.
 
 A voz veio de novo.
 
@@ -44,31 +44,31 @@ Desde aquele acidente…
 
 alguma coisa mudou.
 
-— Sua vida tá ruim? — a voz respondeu.
+>— Sua vida tá ruim? — a voz respondeu.
 
 Dessa vez… clara demais.
 
-— Eu é que tô preso aqui.
+>— Eu é que tô preso aqui.
 
 Meu corpo travou.
 
-— Não posso falar.
+>— Não posso falar.
 
 Pausa.
 
-— E quando falo…
+>— E quando falo…
 
-— você me ignora.
+>— você me ignora.
 
 O quarto parecia menor.
 
 Mais pesado.
 
-— Mas eu sinto tudo.
+>— Mas eu sinto tudo.
 
-— Tudo o que você sente…
+>— Tudo o que você sente…
 
-— e pensa.
+>— e pensa.
 
 Silêncio.
 
@@ -86,10 +86,10 @@ Pausa.
 
 Respirei fundo.
 
-— Quem… é você?
+>— Quem… é você?
 
 Silêncio.
 
 Um nome surgiu, sem que eu quisesse.
 
-Zahroniel.
+>Zahroniel.

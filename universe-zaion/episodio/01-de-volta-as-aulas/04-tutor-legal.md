@@ -64,7 +64,7 @@ Pasta aberta.
 
 Papéis organizados demais.
 
-— Precisamos da sua assinatura.
+>— Precisamos da sua assinatura.
 
 Folhas.
 
@@ -84,7 +84,7 @@ Rápido demais.
 
 Como sempre.
 
-— Está tudo certo — ele disse.
+>— Está tudo certo — ele disse.
 
 Claro.
 

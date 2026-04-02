@@ -10,7 +10,7 @@ O cheiro da cantina.
 
 Tudo parecia novo… e velho ao mesmo tempo.
 
-— Eu já tinha esquecido o quanto gosto de estar em uma escola…
+>— Eu já tinha esquecido o quanto gosto de estar em uma escola…
 
 A voz veio tranquila.
 
