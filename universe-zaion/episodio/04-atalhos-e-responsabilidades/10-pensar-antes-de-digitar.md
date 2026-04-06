@@ -307,10 +307,10 @@ int main() {
 
 — Hoje você aprendeu a pensar como programador.
 
-— Mano… Onde eu teste este programa?
+— Mano… Onde eu testo este programa?
 
 — Tem um site que ajuda muito: https://www.programiz.com/cpp-programming/online-compiler/
 
-— Agora vamos dormir… 
+— Agora vamos dormir… boa noite!
 
 — Boa noite, Zaion… e muito obrigado… 
