@@ -307,4 +307,10 @@ int main() {
 
 — Hoje você aprendeu a pensar como programador.
 
+— Mano… Onde eu teste este programa?
 
+— Tem um site que ajuda muito: https://onecompiler.com/c
+
+— Agora vamos dormir… 
+
+— Boa noite, Zaion… e muito obrigado… 
