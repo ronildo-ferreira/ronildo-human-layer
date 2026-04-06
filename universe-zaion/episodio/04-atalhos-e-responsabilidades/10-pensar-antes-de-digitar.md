@@ -289,14 +289,14 @@ int main() {
 	int ano;
 
 	// Ler o ano
-	printf("Digite o ano que quer sabe se é bisseto: ")
+	printf("Digite o ano que quer sabe se é bisseto: ");
 	scanf("%d",&ano);
 	
 	// Calcular e verificar
 	if (((ano % 4 == 0) && (ano % 100 != 0)) || (ano % 400 == 0)) {
-   		printf("%d é bissexto\n",ano)
-	} senao {
-   		printf("%d é bissexto\n",ano)
+   		printf("%d é bissexto\n",ano);
+	} else {
+   		printf("%d é bissexto\n",ano);
 	}
     return 0;
 }
@@ -309,7 +309,7 @@ int main() {
 
 — Mano… Onde eu teste este programa?
 
-— Tem um site que ajuda muito: https://onecompiler.com/c
+— Tem um site que ajuda muito: https://www.programiz.com/cpp-programming/online-compiler/
 
 — Agora vamos dormir… 
 
