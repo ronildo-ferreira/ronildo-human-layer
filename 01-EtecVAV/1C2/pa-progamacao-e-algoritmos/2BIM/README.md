@@ -23,8 +23,8 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
 | M1 | Lista de Exercícios (L1) | ATV-CPP-001-lista-execicios.md | 07/05/2026|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/cpp/ATV-CPP-001-lista-execicios.md)| |
-| M2 | Lista de Exercícios (L2) |  | 30/03/2026 | [Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/cpp/ATV-CPP-002-lista-execicios.md)||
-| M3 | Portfólio| Análise do Github do grupo (1BIM e 2BIM) | 10/04/2026|[Abrir]() | |
+| M2 | Lista de Exercícios (L2) | Organizar no git | 09/06/2026 | [Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/cpp/ATV-CPP-002-lista-execicios.md)||
+| M3 | Portfólio| Análise do Github do grupo (1BIM e 2BIM) | 16/04/2026|[Abrir]() | |
 
 
 ---
