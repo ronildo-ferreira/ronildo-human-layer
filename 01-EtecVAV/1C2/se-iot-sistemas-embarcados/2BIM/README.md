@@ -16,16 +16,14 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 ---
 - Turma: 1C2
-- Disciplina: PA - PROGRAMAÇÃO E ALGORITIMOS
+- Disciplina: SE - SISTEMAS EMBARCADOS E IOT
 ## 📋 Cronograma - 2 Bimestre
 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Lista de Exercícios (L1) | ATV-CPP-001-lista-execicios.md | 07/05/2026|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/cpp/ATV-CPP-001-lista-execicios.md)| |
-| M2 | Lista de Exercícios (L2) | Organizar no git | 11/06/2026 | [Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/cpp/ATV-CPP-002-lista-execicios.md)||
-| M3 | Portfólio| Análise do Github do grupo (1BIM e 2BIM) | 18/04/2026|[Abrir]() | |
-
+| M1 | Projeto | Dado | 19/05/2026|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/sistemas-embarcados-iot/1C2_SistEmbarcados_Atividade03.pdf) | |
+| M4 | Portfólio| Análise do Github do grupo | 16/06/206|[Abrir]() | |
 
 ---
 
