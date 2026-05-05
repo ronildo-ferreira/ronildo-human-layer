@@ -347,3 +347,6 @@ Zaion confirma.
 — Amanhã…
 
 — a gente começa de verdade.
+
+|[` < voltar `](06-durante-o-jantar.md)| [` avançar > `](08-segundo-dia-como-professor.md)|
+|--------|-----|

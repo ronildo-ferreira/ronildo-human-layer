@@ -195,3 +195,6 @@ Mas, pela primeira vez…
 não parecia sozinho.
 
 
+|[` < voltar `](01-auditoria-de-zeta.md)| [` avançar > `](../04-atalhos-e-responsabilidades/01-trabalho-chato.md)|
+|--------|-----|
+

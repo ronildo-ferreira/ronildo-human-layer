@@ -107,3 +107,6 @@ Quando percebi…
 o pátio já não era o mesmo.
 
 E eu estava sozinho.
+
+|[` < voltar `](02-despedida-da-mae.md)| [` avançar > `](04-tutor-legal.md)|
+|--------|-----|

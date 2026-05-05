@@ -176,3 +176,6 @@ Pausa.
 — Missão registrada.
 
 — E iniciada.
+
+|[` < voltar `](04-tutor-legal.md)| [` avançar > `](06-pedido-de-sorvete.md)|
+|--------|-----|

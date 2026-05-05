@@ -272,3 +272,6 @@ Zaion hesitou.
 Ele percebeu o tom… depois que falou.
 
 Kael apenas sorriu.
+
+|[` < voltar `](05-acesso-e-travamento.md)| [` avançar > `](07-o-pesadelo-de-zeta.md)|
+|--------|-----|

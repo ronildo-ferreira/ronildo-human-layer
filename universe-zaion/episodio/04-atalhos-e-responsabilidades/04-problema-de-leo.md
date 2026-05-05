@@ -249,3 +249,6 @@ Olha para a porta do quarto do Leo.
 Respira fundo.
 
 — Amanhã começa de verdade.
+
+|[` < voltar `](03-batida-na-porta.md)| [` avançar > `](05-cafe-da-manha.md)|
+|--------|-----|

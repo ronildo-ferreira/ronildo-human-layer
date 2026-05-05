@@ -176,3 +176,6 @@ Agora… ele tinha com quem conversar.
 Uma amiga.
 
 Kael’Aran.
+
+|[` < voltar `](03-a-confissao.md)| [` avançar > `](05-acesso-e-travamento.md)|
+|--------|-----|

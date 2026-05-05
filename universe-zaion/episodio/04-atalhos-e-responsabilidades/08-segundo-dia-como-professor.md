@@ -383,3 +383,6 @@ Zaion hesita por um instante.
 — E amanhã…
 
 — a gente começa a programar de verdade.
+
+|[` < voltar `](07-primeira-aula-de-c.md)| [` avançar > `](09-primiero-programa-do-leo.md)|
+|--------|-----|

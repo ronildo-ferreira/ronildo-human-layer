@@ -121,3 +121,8 @@ Mas algo não fazia sentido.
 Androides…
 
 não sonham.
+
+
+|[` < voltar `](06-passeio-no-shopping.md)| [` avançar > `](../03-apresentacao/01-auditoria-de-zeta.md)|
+|--------|-----|
+

@@ -201,3 +201,6 @@ Leo se senta.
 Dessa vez…
 
 diferente.
+
+|[` < voltar `](04-problema-de-leo.md)| [` avançar > `](06-durante-o-jantar.md)|
+|--------|-----|

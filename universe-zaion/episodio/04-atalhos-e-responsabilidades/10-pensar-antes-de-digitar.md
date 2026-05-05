@@ -314,3 +314,6 @@ int main() {
 — Agora vamos dormir… boa noite!
 
 — Boa noite, Zaion… e muito obrigado… 
+
+|[` < voltar `](09-primiero-programa-do-leo.md)| [` avançar > `](11-revisao-e-ponte-para-cpp.md)|
+|--------|-----|

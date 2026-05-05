@@ -191,3 +191,6 @@ Desperto.
 Silencioso.
 
 Esperando.
+
+|[` < voltar `](08-o-acidente.md)| [` avançar > `](10-jantar.md)|
+|--------|-----|

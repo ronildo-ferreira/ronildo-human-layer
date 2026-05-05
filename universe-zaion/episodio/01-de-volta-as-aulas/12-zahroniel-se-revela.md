@@ -159,3 +159,6 @@ Silêncio.
 Nenhuma resposta.
 
 Ele já tinha ido.
+
+|[` < voltar `](11-quarto-do-zaion.md)| [` avançar > `](../02-um-novo-dia/01-manha-seguinte.md)|
+|--------|-----|

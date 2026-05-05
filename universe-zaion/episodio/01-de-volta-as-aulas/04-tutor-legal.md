@@ -109,3 +109,6 @@ Coisas que não deveriam ser minhas.
 Mas são.
 
 E ninguém perguntou se eu queria.
+
+|[` < voltar `](03-entrada-da-escola.md)| [` avançar > `](05-equipe-e-missao.md)|
+|--------|-----|

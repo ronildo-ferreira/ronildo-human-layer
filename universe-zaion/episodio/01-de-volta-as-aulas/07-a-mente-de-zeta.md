@@ -199,3 +199,6 @@ Fiquei em silêncio.
 Zeta aguardou.
 
 — Em quem?
+
+|[` < voltar `](06-pedido-de-sorvete.md)| [` avançar > `](08-o-acidente.md)|
+|--------|-----|

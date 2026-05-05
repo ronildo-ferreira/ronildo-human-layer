@@ -67,3 +67,7 @@ Errado.
 Como se alguma coisa estivesse prestes a acontecer.
 
 E eu ainda não soubesse o quê.
+
+|[` < voltar `](01-quarto-do-zaion-manha-cedo.md)| [` avançar > `](03-entrada-da-escola.md)|
+|--------|-----|
+

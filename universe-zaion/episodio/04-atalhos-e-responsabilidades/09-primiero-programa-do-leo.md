@@ -239,3 +239,5 @@ com orgulho.
 
 — eu não preciso mais copiar.
 
+|[` < voltar `](08-segundo-dia-como-professor.md)| [` avançar > `](10-pensar-antes-de-digitar.md)|
+|--------|-----|

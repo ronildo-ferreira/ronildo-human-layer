@@ -55,3 +55,6 @@ Respirei fundo.
 Virei de lado.
 
 “Será que aquilo tem a ver comigo?”
+
+|[` < voltar `](10-jantar.md)| [` avançar > `](12-zahroniel-se-revela.md)|
+|--------|-----|

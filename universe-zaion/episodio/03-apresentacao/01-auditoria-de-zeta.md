@@ -165,12 +165,7 @@ Comunicação encerrada.
 
 Sistema em standby.
 
+|[` < voltar `](../02-um-novo-dia/07-o-pesadelo-de-zeta.md)| [` avançar > `](02-a-visao-de-zeta.md)|
+|--------|-----|
 
 
-
-
-
-
-
-
- 

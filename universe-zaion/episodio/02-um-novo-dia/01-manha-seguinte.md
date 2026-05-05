@@ -56,3 +56,6 @@ De repente uma voz o traz para realiadade.
 — Vitor, hoje não voltaremos com você.  
 — Entendido. Bons estudos, Zaion. Meninos…
 
+|[` < voltar `](../01-de-volta-as-aulas/12-zahroniel-se-revela.md)| [` avançar > `](02-o-androide-distraido.md)|
+|--------|-----|
+

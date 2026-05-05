@@ -105,3 +105,7 @@ Zaion volta ao teclado.
 Pequena pausa.
 
 — Vou… mas não prometo parar de reclamar.
+
+|[` < voltar `](../03-apresentacao/02-a-visao-de-zeta.md)| [` avançar > `](02-encontro-com-kael-aran.md)|
+|--------|-----|
+

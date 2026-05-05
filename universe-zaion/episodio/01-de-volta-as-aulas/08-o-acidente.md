@@ -143,3 +143,6 @@ Observando.
 Como se estivesse esperando…
 
 que eu perguntasse mais.
+
+|[` < voltar `](07-a-mente-de-zeta.md)| [` avançar > `](09-o-eco.md)|
+|--------|-----|

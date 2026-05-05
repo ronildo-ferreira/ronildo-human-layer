@@ -71,3 +71,6 @@ Observando.
 Sempre observando.
 
 Fui até ele.
+
+|[` < voltar `](05-equipe-e-missao.md)| [` avançar > `](07-a-mente-de-zeta.md)|
+|--------|-----|

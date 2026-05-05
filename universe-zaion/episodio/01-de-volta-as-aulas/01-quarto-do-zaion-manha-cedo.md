@@ -93,3 +93,6 @@ Silêncio.
 Um nome surgiu, sem que eu quisesse.
 
 >Zahroniel.
+
+| [` avançar > `](02-despedida-da-mae.md)|
+|--------|

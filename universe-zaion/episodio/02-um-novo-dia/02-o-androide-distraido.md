@@ -122,3 +122,5 @@ Me virei e o vi conversando com o professor junto a outros alunos.
 — O quê? — respondeu Zeta.
 — A aula já terminou. Vamos nos atrasar para a próxima.
 
+|[` < voltar `](01-manha-seguinte.md)| [` avançar > `](03-a-confissao.md)|
+|--------|-----|
