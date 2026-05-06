@@ -1,6 +1,6 @@
 # 📅 Cronograma de Entrega de Atividades (2 Bimestre)
-- Turma: 1C3
-- Disciplina: PW1 - PROGRAMAÇÃO WEB I
+- Turma: 1D
+- Disciplina: PA - PROGRAMAÇÃO E ALGORITIMOS
 
 Este documento apresenta as datas e orientações para a entrega das atividades das disciplinas.
 
@@ -17,15 +17,16 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 ---
 
-- Turma: 1C3
-- Disciplina: PW1 - PROGRAMAÇÃO WEB I
+- Turma: 1D
+- Disciplina: PA - PROGRAMAÇÃO E ALGORITIMOS
 ## 📋 Cronograma - 2 Bimestre
 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1-1 | Pesquisa| Assitir: [Vídeo](https://www.youtube.com/watch?v=LWU2OR19ZG4), fazer uma página explicado: O QUE É CSS? (SELETORES, PROPRIEDADES E VALORES), em dupla. Use CSS no Código  | 07/05/2026| | |
-| M3 | Portfólio| Análise do Github do grupo | 18/06/2026| | |
+| M1 | Lista de Exercícios (L1) | ATV-CPP-001-lista-execicios.md | 07/05/2026|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/cpp/ATV-CPP-001-lista-execicios.md)| |
+| M2 | Lista de Exercícios (L2) | Organizar no git | 12/06/2026 | [Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/cpp/ATV-CPP-002-lista-execicios.md)||
+| M3 | Portfólio| Análise do Github do grupo | 10/04/2026|[Abrir]() | |
 
 ---
 

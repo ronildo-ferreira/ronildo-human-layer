@@ -1,5 +1,6 @@
 # 📅 Cronograma de Entrega de Atividades (2 Bimestre)
-
+- Turma: 1C3
+- Disciplina: SE - SISTEMAS EMBARCADOS E IOT
 
 Este documento apresenta as datas e orientações para a entrega das atividades das disciplinas.
 

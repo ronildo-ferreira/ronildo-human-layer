@@ -1,5 +1,6 @@
 # 📅 Cronograma de Entrega de Atividades (2 Bimestre)
-
+- Turma: 2D
+- Disciplina: DDM - Programação para Dispositiovos Móveis
 
 Este documento apresenta as datas e orientações para a entrega das atividades das disciplinas.
 

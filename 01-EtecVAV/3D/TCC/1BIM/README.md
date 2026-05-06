@@ -1,5 +1,6 @@
 # 📅 Cronograma de Entrega de Atividades (1 Bimestre)
-
+- Turma: 3D
+- Disciplina: TCC - Trabalho de Conclusão de Curso
 
 Este documento apresenta as datas e orientações para a entrega das atividades das disciplinas.
 

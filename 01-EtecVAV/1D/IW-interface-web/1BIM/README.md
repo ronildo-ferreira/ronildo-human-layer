@@ -1,5 +1,6 @@
 # 📅 Cronograma de Entrega de Atividades (1 Bimestre)
-
+- Turma: 1D
+- Disciplina: IW - INTERFACE WEB I
 
 Este documento apresenta as datas e orientações para a entrega das atividades das disciplinas.
 

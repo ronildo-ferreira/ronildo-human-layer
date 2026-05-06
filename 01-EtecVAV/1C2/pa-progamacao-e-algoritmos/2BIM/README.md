@@ -1,5 +1,7 @@
 # 📅 Cronograma de Entrega de Atividades (2 Bimestre)
-
+- Turma: 1C2
+- Disciplina: PA - PROGRAMAÇÃO E ALGORITIMOS
+## 📋 Cronograma - 2 Bimestre
 
 Este documento apresenta as datas e orientações para a entrega das atividades das disciplinas.
 
