@@ -1,60 +1,52 @@
-**Quarto do Zaion**
+# Quarto do Zaion
 
-— Onde está meu carregador…?
+*Onde está meu carregador… perdi… Só falta essa… Achei!*
 
-Achei.
+(Conectei o celular. Tela acendeu. Mensagens. Muitas.)
 
-Conectei o celular.
+*Vejamos... Mamãe. Papai. Clube de robótica. Zeta. Vinte mensagens. Ele exagera…*
 
-Tela acendeu.
+(Passei rápido.)
 
-Mensagens.
+*Nada urgente.*
 
-Muitas.
+(Joguei o celular de lado. Deitei. Silêncio.)
 
-Mamãe.
+*Hoje foi um dia estranho…*
 
-Papai.
+(Olhei pro teto.)
 
-Clube de robótica.
+*Tudo parecia normal…*
 
-Zeta.
+(Pausa.)
 
-Vinte mensagens.
+*…menos a Kael.*
 
-— Ele exagera…
+(Fechei os olhos.)
 
-Passei rápido.
+*Por que eu travo perto dela?*
 
-Nada urgente.
+(Respirei fundo.)
 
-Joguei o celular de lado.
+*E o Zeta… será que ele sabe mais do que disse... ou não pode falar?*
 
-Deitei.
+(Virei de lado. O silêncio do quarto parecia zumbir nos meus ouvidos.)
 
-Silêncio.
+*O que será que foi aquilo... tem a ver comigo?*
 
-“Hoje foi um dia estranho…”
+(Pausa.)
 
-Olhei pro teto.
+*Zeta disse para eu falar com a voz… mas e se ela responder?*
 
-“Tudo parecia normal…”
+(Respirei fundo, tentando forçar o sono.)
 
-Pausa.
+*Dorme, Zaion. Amanhã o código volta a fazer sentido.*
 
-“…menos a Kael.”
+(O quarto ficou gelado. Senti um arrepio na nuca.)
 
-Fechei os olhos.
+*...Ou não.*
 
-“Por que eu travo perto dela?”
 
-Respirei fundo.
-
-“E o Zeta…”
-
-Virei de lado.
-
-“Será que aquilo tem a ver comigo?”
 
 |[` < voltar `](01-10-jantar.md)| [` avançar > `](01-12-zahroniel-se-revela.md)|
 |--------|-----|

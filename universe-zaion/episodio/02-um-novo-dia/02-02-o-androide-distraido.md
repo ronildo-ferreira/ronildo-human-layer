@@ -1,15 +1,23 @@
 # O Androide distraído — Aula e Planejamento
 
-Na sala de aula...
+(Sala de aula)
 
 — Bom dia, pessoal! Hoje vocês devem elaborar o roteiro do artigo, HQ e os slides de apresentação. Cada grupo deve postar os materiais no ambiente virtual até o final da aula. Organizem bem as tarefas e tirem dúvidas. Vamos trabalhar! — disse o professor.
 
-— Oi... Kael! Tudo... bem? — Nossa, ela está radiante... — pensei, sentando à mesa de estudos.  
-— Bom dia, Zaion! Cadê o Zeta? — falou Kael calmamente.  
-— Quem?  
+— Oi... Kael! Tudo... bem?
+
+*Nossa, ela está radiante...*
+
+(Sentei-me à mesa de estudos.)
+ 
+— Bom dia, Zaion! Cadê o Zeta?
+
+— Quem?
+
 — Zaion! — exclamou.  
 
-Me virei e o vi conversando com o professor junto a outros alunos.  
+(Me virei e o vi.)
+
 — Zeta! — gritei.  
 
 — Trabalhem em silêncio, por favor — disse o professor.  
@@ -18,7 +26,8 @@ Me virei e o vi conversando com o professor junto a outros alunos.
 
 — Vamos organizar o trabalho em três entregas: **artigo, slides e HQ** — disse Zaion, já estruturando.  
 
-— Primeiro, o **artigo técnico**. Ele deve seguir uma estrutura clara:  
+— Primeiro, o **artigo técnico**. Ele deve seguir uma estrutura clara:
+
 1. Conceito de Git  
 2. Histórico e contexto  
 3. Instalação e download  
@@ -32,9 +41,10 @@ Me virei e o vi conversando com o professor junto a outros alunos.
 
 — Além disso — continuou Kael — o artigo deve ser escrito em Markdown, com linguagem clara, exemplos e organização por tópicos.  
 
-— Certo! — disse Kael, anotando.  
+— OK! — disse Kael, anotando.  
 
-— Bom dia, pessoal! — disse Zeta.  
+— Bom dia, pessoal! — disse Zeta.
+ 
 — Bom dia! — respondemos quase em coro.  
 
 — O que já temos pronto? — perguntou Zeta.  
@@ -43,9 +53,10 @@ Me virei e o vi conversando com o professor junto a outros alunos.
 
 — Sobre o quê?  
 
-— Os slides, Zeta! — disse Kael, meio zangada.  
+— Os slides, Zeta! — disse Kael, meio zangada. Primeiro o Zaion... agora você!!
 
-— Os slides devem servir como apoio à apresentação, então precisam ser objetivos — respondeu Zeta.  
+— Os slides devem servir como apoio à apresentação, então precisam ser objetivos — respondeu Zeta.
+
 — Sugiro a seguinte estrutura:  
 
 1. Apresentação da equipe  
@@ -73,10 +84,12 @@ Me virei e o vi conversando com o professor junto a outros alunos.
 
 — A HQ, Zaion — disse Zeta.  
 
-— Ah… sim! — respondeu Zaion.  
+— Ah… sim! — respondeu Zaion. 
+
 — A HQ será uma forma de explicar o conteúdo de maneira simples.  
 
-— Podemos criar um diálogo entre personagens explicando:  
+— Podemos criar um diálogo entre personagens explicando:
+
 - o que é Git/Github 
 - para que serve  
 - como as empresas utilizam  
@@ -94,32 +107,54 @@ Me virei e o vi conversando com o professor junto a outros alunos.
 - /slides (arquivo .pptx e/ou .pdf)  
 - /hq (roteiro ou imagens)  
 
-— E todos devem colaborar — continuou.  
-— Cada aluno precisa realizar commits no repositório. Nada de um único envio final.  
+— E todos devem colaborar — continuou.
+ 
+— Cada um precisa realizar commits no repositório. Nada de um único envio final.  
 
 — Você pode postar o planejamento no repositório, Zeta? — perguntou Kael.  
 
-— Zaion, Zaion! — chamou Zahroniel.  
-— Que foi, Zahy? — pensou Zaion.  
-— Zahy? — indagou Zahroniel.  
-— Seu nome é muito complicado, então encurtei. Mas o que você quer?  
-— Gostei! Ah, e para de olhar pra ela, você vai deixá-la encabulada...  
+>— Zaion, Zaion!
+  
+*Que foi, Zahy?*
+ 
+>— Zahy?
 
-— Entendi — pensou Zaion, desviando o olhar para Zeta.  
+*Seu nome é muito complicado, então encurtei. Mas o que você quer?*
 
-— E então? — perguntou Kael.  
-— Então o quê? — devolveu Zeta.  
-— Você pode postar a atividade de hoje? — perguntou Zaion.  
-— Sim.  
+>— Gostei! Ah, e para de olhar pra ela, você vai deixá-la encabulada...  
 
-— Zeta, você está estranho hoje — observou Zaion.  
-— Depois… eu…  
-— Fala!  
-— A gente pode conversar depois?  
+*Entendi!*
+
+(Respondi em pensamento, desviando o olhar para Zeta.)
+
+— E então? — perguntou Kael.
+
+— Então o quê? — devolveu Zeta, com um atraso perceptível no tempo de resposta.
+ 
+— Você pode postar a atividade de hoje? — perguntou Zaion. 
+
+— Sim. Realizando upload...
+
+(Zeta parou no meio do movimento.)  
+
+— Zeta, você está estranho hoje — observei.
+
+— Eu... — Zeta hesitou. — Detectei uma divergência de sincronização no núcleo coletivo. Nada grave.
+
+Divergência. De novo essa palavra.
+
+— Depois… eu… 
+
+— Fala!
+
+— A gente pode conversar depois? 
+
 — Ok — respondeu Zaion.
 
 — Zeta! Zeta! — chamou Zaion.
+
 — O quê? — respondeu Zeta.
+
 — A aula já terminou. Vamos nos atrasar para a próxima.
 
 |[` < voltar `](02-01-manha-seguinte.md)| [` avançar > `](02-03-a-confissao.md)|
