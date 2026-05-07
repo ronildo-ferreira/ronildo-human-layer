@@ -1,0 +1,44 @@
+# 📅 Cronograma de Entrega de Atividades (1 Bimestre)
+- Turma: 2D
+- Disciplina: SWEB - Sistemas Web
+
+Este documento apresenta as datas e orientações para a entrega das atividades das disciplinas.
+
+É responsabilidade do aluno acompanhar este cronograma e cumprir os prazos estabelecidos.
+
+---
+
+## 📌 Orientações Importantes
+
+- As atividades devem ser entregues no local indicado.
+- O não cumprimento do prazo pode impactar na nota e na presença.
+- A organização do repositório deve seguir as instruções da atividade.
+- O envio deve ser realizado pelo GitHub do grupo, conforme solicitado.
+
+---
+
+## 📋 Cronograma
+
+---
+- Turma: 2D
+- Disciplina: SWEB - Sistemas Web
+## 📋 Cronograma - 1 Bimestre
+
+
+| Menção | Tipo| Atividade | Data Entrega |Link | Obs|
+|--------|-----|-----|-----|-|-|
+| M1 | Estudo de caso| CRUD e PDO. Ler e testar: [CRUD - Básico](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/content/php/php-crud-pdo-basico.md) e [CRUD - Indermediário](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/content/php/php-crud-pdo-refinado.md)| 19/05/2026|[Tarefa](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/php/act-php-001-crud-pdo.md) | |
+| M2 | Aguarde| --- | ---|[Abrir]() | |
+| M3 | Portfólio| Análise do Github do grupo | 18/06/2026|[Abrir]() | |
+
+
+---
+## ⚠️ Atenção
+
+- Verifique se todos os arquivos estão dentro da pasta correta.
+- Confirme se o repositório foi atualizado antes da data limite.
+- Certifique-se de que todos os integrantes do grupo participaram da atividade.
+
+---
+
+Manter organização e pontualidade faz parte da avaliação.
