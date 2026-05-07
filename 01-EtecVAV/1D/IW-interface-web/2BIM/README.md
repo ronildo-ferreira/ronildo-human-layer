@@ -24,7 +24,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1-1 | Pesquisa| Assitir: [Vídeo](https://www.youtube.com/watch?v=LWU2OR19ZG4), fazer uma página explicado: O QUE É CSS? (SELETORES, PROPRIEDADES E VALORES), em dupla. Use CSS no Código  | 05/05/2026| | |
+| M1-1 | Pesquisa| Assitir: [Vídeo](https://www.youtube.com/watch?v=LWU2OR19ZG4), fazer uma página explicado: O QUE É CSS? (SELETORES, PROPRIEDADES E VALORES), em dupla. Use CSS no Código  | 05/05/2026| |[conceito de **Mobile-First**](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/content/html-css/conceito-mobile-first.md) |
 | M1-2 | Site| Site Profissões  | 02/06/2026|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/html-css/ACT-HTML-005-const-site-profissoes-informatica.md) | |
 | M3 | Portfólio| Análise do Github do grupo | 16/06/2026| | |
 

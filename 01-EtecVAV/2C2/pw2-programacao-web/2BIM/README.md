@@ -27,7 +27,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Estudo de caso| CRUD e PDO. Ler e testar: [CRUD - Básico](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/content/php/php-crud-pdo-basico.md) e [CRUD - Indermediário](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/content/php/php-crud-pdo-refinado.md)| 21/05/2026|[Tarefa](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/php/act-php-001-crud-pdo.md) | |
+| M1 | Estudo de caso| CRUD e PDO. Ler e testar: [CRUD - Básico](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/content/php/php-crud-pdo-basico.md) e [CRUD - Indermediário](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/content/php/php-crud-pdo-refinado.md)| 21/05/2026|[Tarefa](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/php/act-php-001-crud-pdo.md) |[conceito de **Mobile-First**](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/content/html-css/conceito-mobile-first.md) |
 | M2 | Aguarde| --- | ---|[Abrir]() | |
 | M3 | Portfólio| Análise do Github do grupo | 18/06/2026|[Abrir]() | |
 
