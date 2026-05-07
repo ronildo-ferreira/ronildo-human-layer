@@ -24,8 +24,8 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1-1 | Pesquisa| Assitir: [Vídeo](https://www.youtube.com/watch?v=LWU2OR19ZG4), fazer uma página explicado: O QUE É CSS? (SELETORES, PROPRIEDADES E VALORES), em dupla. Use CSS no Código  | 07/05/2026| | |
-| M1-2 | Site| Site Profissões  | 11/06/2026|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/html-css/ACT-HTML-005-const-site-profissoes-informatica.md) | |
+| M1 | Pesquisa| Assitir: [Vídeo](https://www.youtube.com/watch?v=LWU2OR19ZG4), fazer uma página explicado: O QUE É CSS? (SELETORES, PROPRIEDADES E VALORES), em dupla. Use CSS no Código  | 07/05/2026| | |
+| M2 | Site| Site Profissões  | 11/06/2026|[Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/html-css/ACT-HTML-005-const-site-profissoes-informatica.md) | |
 
 | M3 | Portfólio| Análise do Github do grupo | 18/06/2026| | |
 
