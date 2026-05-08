@@ -60,7 +60,7 @@ Sentei na cama.
 
 — Ótimo… — passei a mão no rosto. — Tô discutindo comigo mesmo de novo.
 
-***Não.***
+*`Não.`*
 
 ***Não comigo.***
 
