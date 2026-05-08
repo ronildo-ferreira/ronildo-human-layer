@@ -4,10 +4,26 @@ Esta é uma obra de ficção inspirada no cotidiano tecnológico e na evolução
 
 Para navegar nesta história, familiarize-se com os comandos de interface:
 
-*   **`—` (Travessão):** Indica a voz ativa, o diálogo entre os personagens.
-*   ***Itálico***: Representa a telemetria interna; os pensamentos e reflexões privadas.
-*   **`( )` (Parênteses):** Descreve o hardware humano; as ações e movimentos físicos no ambiente.
-*   **`> ` (Citações):** Reservado para a voz do Sistema (Narrador), logs de sistema, mensagens de texto ou comunicações de personagens secundários.
+*   **`—` (Travessão):** Indica a voz ativa, o diálogo entre os personagens.Exemplo:
+
+— Zaion, acorda!
+
+*   ***Itálico***: Representa a telemetria interna; os pensamentos e reflexões privadas. Exemplo:
+
+*`Puxa! O que eu gostaria é continuar dormindo.`*
+
+*   **`( )` (Parênteses):** Descreve o hardware humano; as ações e movimentos físicos no ambiente. Exemplo:
+
+(Olhei para ele.)
+
+*   **`> ` (Citações):** Reservado para a voz do Sistema (Narrador), logs de sistema, mensagens de texto ou comunicações de personagens secundários. Exemplo: 
+
+>**MENSAGEM:**
+>
+>itens que não se equadram nos comandos de interface citados, aprecerão com texto normal
+>
+>**FIM DA MENSAGEM.**
+
 
 **Diretrizes de Execução:**
 1.  **Imaginação Ativa:** A renderização dos cenários e atividades secundárias fica a cargo do seu processamento mental.
@@ -62,11 +78,11 @@ Sentei na cama.
 
 *`Não.`*
 
-***Não comigo.***
+*`Não comigo.`*
 
-***Desde aquele acidente…***
+*`Desde aquele acidente...`*
 
-***alguma coisa mudou. Minha vida piorou.***
+*`Alguma coisa mudou. Minha vida piorou.`*
 
 >— Sua vida tá ruim? — a voz respondeu.
 
