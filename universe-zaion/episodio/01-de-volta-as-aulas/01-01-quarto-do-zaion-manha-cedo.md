@@ -60,13 +60,13 @@ Sentei na cama.
 
 — Ótimo… — passei a mão no rosto. — Tô discutindo comigo mesmo de novo.
 
-*Não.*
+***Não.***
 
-*Não comigo.*
+***Não comigo.***
 
-*Desde aquele acidente…*
+***Desde aquele acidente…***
 
-*alguma coisa mudou. Minha vida piorou.*
+***alguma coisa mudou. Minha vida piorou.***
 
 >— Sua vida tá ruim? — a voz respondeu.
 
