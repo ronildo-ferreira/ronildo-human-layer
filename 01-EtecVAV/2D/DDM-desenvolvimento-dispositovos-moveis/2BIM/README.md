@@ -27,7 +27,8 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Aplicativos |Exercícios da Apostila - [Componentes avançados - 1](componentes-avancados-1.pdf), [Componentes avançados - 2](componentes-avancados-2.pdf)| 18/05/2026 | |
+| M1 | Aplicativos |Exercícios da Apostila - [Componentes avançados - 1](componentes-avancados-1.pdf), [Componentes avançados - 2](componentes-avancados-2.pdf)| 18/05/2026 - No Github | |
+| M2 | Jogos| Os jogos devem apresentar melhorias | 15/06/2026 - No Github | | |
 | M3 | Portfólio| Análise do Github do grupo | 22/06/2026| | |
 
 ---
