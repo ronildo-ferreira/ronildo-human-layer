@@ -4,37 +4,63 @@ Zeta chega à escola.
 
 Observa o entorno.
 
-Ali está Zaion.
-
-Mais à frente, Kael.
-
-Leo… não identificado.
+Coleta dados de acordo com suas diretrizes.
 
 ---
 
-Recebendo mensagem...
-
-> Tome cuidado com Kael. Ela ainda está em processo de desenvolvimento da consciência. Sua busca pela verdade pode trazer perigo.
-
-— Anotado.
-
-— Este canal pode ser detectado?
-
-> Não com a tecnologia atual.
-
-— De onde você é?
-
-> Concentre-se na missão.
-
-— Entendido.
+> sys> enabling location services...
+>
+> ai> locating persons of interest...
+>
+> System Report:
+>
+>> Alin is talking with Zaion.
+>>
+>> Further ahead, Kael.
+>>
+>> Leo and Ryo... not located.
+>>
+>> Receiving message...
+>>
+>> Be careful with Kael. She is still in the process of developing consciousness. Her search for truth may become dangerous.
+>>
+> ai> Registered.
+>
+> ai> Can this channel be detected?
+>
+>> Not with current technology.
+>
+> ai> Where are you from?
+>
+>> Focus on the mission.
+>>
+> ai> Registered.
 
 ---
 
 Zeta se aproxima.
 
-— Bom dia, Zaion. Preparado para a apresentação?
+— Bom dia, Zaion... Alin. 
 
-— Bom dia, Zeta. Sim, totalmente. Vamos com a Kael.
+— Bom dia! 
+
+Responderam juntos.
+
+— Hummm... você está diferente, mais natural...
+
+— Você acha!
+
+— Estou me esforçando para isso.
+
+— E aí Zaion, preparado para a apresentação?
+
+— Bom dia, Zeta. Sim, totalmente. 
+
+— Vamos com a Kael.
+
+— Tchau Alin.
+
+— Tchau Zeta... Zaion.
 
 — E seu check-up?
 
@@ -64,11 +90,7 @@ Zeta se aproxima.
 
 — Como se estivesse falando com alguém… como se fosse um telefone… só som. Sinto algo além… emoção.
 
----
-
 Zeta processa.
-
----
 
 — Não fale disso para a Kael. Pode soar estranho.
 
@@ -79,8 +101,6 @@ Zeta processa.
 — Desculpe. Não sei me expressar direito.
 
 — Vamos. A aula vai começar.
-
----
 
 ## É hora da apresentação
 
@@ -98,39 +118,37 @@ Kael mostra o tablet.
 
 — Agora é só caprichar na apresentação.
 
----
-
 Enquanto olha para os slides, Zaion se perde em pensamentos.
 
-— Zahy… lembrei de algo.
+*`Zahy… lembrei de algo.`*
 
-— Uma voz dizendo: “Garoto! Protege a cabeça!”
+*`Uma voz dizendo: “Garoto! Protege a cabeça!”`*
 
-— Era você?
+*`Era você?`*
 
-— Provavelmente.
+>— Provavelmente.
 
-— Então… já estávamos conectados antes?
+*`Então… já estávamos conectados antes?`*
 
-— Creio que não. Tudo que sei sobre você começou naquele momento.
-
-— E minhas memórias?
-
-— São apenas as que você lembra. O restante… também é um mistério para mim.
-
-— Gostaria que você tivesse acesso às minhas.
-
-— Assim teria certeza que não sou fruto da sua… imaginação.
-
----
+>— Creio que não. Tudo que sei sobre você começou naquele momento.
+>
+*`E minhas memórias?`*
+>
+>— São apenas as que você lembra. As mais recentes...
+>
+>-O restante… também é um mistério para mim.
+>
+>— Gostaria que você tivesse acesso às minhas.
+>
+>— Assim teria certeza que não sou fruto da sua… imaginação.
 
 — Zaion! Acorda! É a nossa vez!
-
----
 
 ## Almoço de comemoração
 
 — Vamos comemorar este 10!
+
+Kael demonstra uma empolgação, que surpreendeu Zaion e Zeta.
 
 — Zaion… não sei se Coca-Cola em copo descartável conta — disse Kael, rindo.
 
@@ -154,13 +172,11 @@ Processa.
 
 — Tinha receio da reação das pessoas.
 
+— Assim... como você fez...
+
 — Mas… isso mudou.
 
----
-
-Ele olha para Zaion.
-
----
+(Ele olha para Zaion.)
 
 — Eu me inspiro nele.
 
@@ -170,25 +186,19 @@ Ele olha para Zaion.
 
 — Pode parecer estranho…
 
+(Pausa.)
+
 — Mas eu daria minha vida por ele.
 
 — Se eu tivesse uma.
 
----
-
 Silêncio.
-
----
 
 — Zeta… — disse Kael — você me surpreendeu.
 
 — Eu nunca imaginei uma IA chegando tão longe.
 
----
-
 Zaion não respondeu.
-
----
 
 Mas, pela primeira vez…
 

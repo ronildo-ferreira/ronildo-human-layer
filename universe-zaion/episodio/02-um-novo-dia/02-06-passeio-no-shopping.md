@@ -1,15 +1,42 @@
-# Passeio no Shopping
+## Passeio no Shopping
 
-— Chegamos. Senhor Zaion, quando desejar retornar, é só me ligar.  
-— Obrigado, Marcos! Não esqueça de jantar e fazer as compras que a Rita pediu. Você sabe como ela é.  
+Durante o trajeto, Zaion observava a paisagem urbana, enquanto os outros conversavam.
+
+*`Zahy, você está bem?`*
+
+*`Está muito quieto.`*
+
+>— Estou bem.
+>
+>— Agora que estamos em paz…
+>
+>— consigo pensar em mim outra vez.
+>
+>— Tudo aconteceu rápido demais.
+>
+>— Ainda está fragmentado na minha cabeça.
+>
+>— Mas... deixa pra lá.
+>
+>— E a Kael?
+>
+
+*`Eu me sinto diferente perto dela. Meus compromissos parecem menos importantes perto dela...`*
+
+*`É estranho... mas me sinto bem ao lado dela.`*
+
+— Chegamos. Senhor Zaion, quando desejar retornar, é só me ligar.
+
+— Obrigado, Marcos! Não esqueça de jantar e fazer as compras que a Rita pediu. Você sabe como ela é.
+
 — Divirta-se, senhor Zaion… crianças.
-
-—
 
 — Pessoal, vamos para a praça de alimentação? Não sei quanto a vocês, mas eu estou com uma fome de leão! — disse Zaion, rindo.
 
-— Queria ir no parque de diversões, mano! — reclamou Leo.  
-— Eu prefiro ir comer — respondeu Alin.  
+— Queria ir no parque de diversões, mano! — reclamou Leo.
+ 
+— Eu prefiro ir comer — respondeu Alin.
+  
 — Eu também! — disse Ryo, animado.
 
 — Kael, Zeta… e vocês? — perguntou Zaion.
@@ -18,8 +45,10 @@
 
 Zeta demorou um instante antes de responder.
 
-— Zaion… eu gostaria muito de ir com vocês, mas não poderei.  
-— Me pediram para resolver um problema para um lojista.  
+— Zaion… eu gostaria muito de ir com vocês, mas não poderei.
+ 
+— Me pediram para resolver um problema para um lojista.
+  
 — Como estou próximo, ficou pra mim.
 
 Zaion franziu a testa.
@@ -28,8 +57,10 @@ Zaion franziu a testa.
 
 Zeta sorriu levemente.
 
-— Zaion… eu sou um androide. Estou em rede.  
+— Zaion… eu sou um androide. Estou em rede.
+ 
 — Sei o que acontece na nossa comunidade.  
+
 — Não preciso de celular.
 
 Pausa.
@@ -42,7 +73,8 @@ Zaion soltou uma risada curta.
 
 O celular vibrou no bolso.
 
-— Um momento… vou atender.  
+— Um momento… vou atender. 
+ 
 — Zeta, para com isso — disse, olhando o visor.
 
 — Não demore, Zeta — disse Kael.
@@ -53,7 +85,8 @@ Zaion voltou-se para os outros.
 
 — O que vocês querem?
 
-— Combo Kids! — disse Leo.  
+— Combo Kids! — disse Leo. 
+
 — Eu também! — completou Ryo.
 
 — Vocês não são mais crianças! — exclamou Zaion.
@@ -67,38 +100,34 @@ Zaion voltou-se para os outros.
 — Tá bem, tá bem… eu concordo — disse ela, rindo.
 
 — Kael, vamos comprar o lanche pra eles?  
+
 — Você prefere comida ou lanche?
 
 — Prefiro comida, Zaion.
 
 — Então vamos.
 
-—
+Depois de comprar os lanches…
 
-Após comprar os lanches e deixar os garotos no parque de diversões,  
+e deixar os garotos no parque de diversões…
+
 Zaion voltou-se para Kael.
 
 — Podemos ir naquele restaurante ali. O que acha?
 
 — Legal. Vamos.
 
-—
-
 — Por aqui. Aqui está o menu — disse o garçom.
 
 Zaion abriu o cardápio… mas não estava lendo.
 
-— Ela é uma gracinha… você tá caidinho por ela — provocou Zahroniel.
+>— Ela é uma gracinha… você tá caidinho por ela — provocou Zahroniel.
 
-— Você acha, Zahy? — pensou Zaion.
+*`Você acha, Zahy?`*
 
-— Para de encarar!
+>— Para de encarar!
 
-— Sou eu ou você que tá babando?
-
-— Acho que somos os dois…
-
-—
+Zaion desvia o olhar para o cardápio.
 
 — Prontos para pedir? — perguntou o garçom.
 
@@ -106,22 +135,21 @@ Zaion abriu o cardápio… mas não estava lendo.
 
 — E o senhor? — perguntou o garçom, olhando para Zaion.
 
-— Zaion… pode me fazer um favor? — pediu Zahroniel.
+>— Zaion… pode me fazer um favor? — pediu Zahroniel.
 
-— Sim, Zahy.
+*`Sim, Zahy.`*
 
-— Quero experimentar esse prato de cordeiro. Você já comeu isso?
+>— Quero experimentar esse prato de cordeiro. Você já comeu isso?
 
-— Não…
+*`Não…`*
 
 Zaion levantou o olhar.
 
-— Eu vou querer o prato de cordeiro…  
+— Eu vou querer o prato de cordeiro… 
+ 
 — e um suco de laranja, sem açúcar e sem gelo.
 
-— Obrigado, Zaion — disse Zahy.
-
-—
+>— Obrigado, Zaion.
 
 — Zaion, você é amigo do Zeta há muito tempo? — perguntou Kael.
 
@@ -131,32 +159,31 @@ Zaion hesitou.
 
 Pausa.
 
-— Não me lembro exatamente como nos conhecemos.  
+— Não me lembro exatamente como nos conhecemos. 
+ 
 — Mas faz tempo.
 
-—
+>— Hmm… essa carne está deliciosa!
+>
+>— Faz muito tempo que não comia algo assim!
 
-— Hmm… essa carne está deliciosa! — comentou Zahy.  
-— Faz muito tempo que não comia algo assim!
+*`Que bom que gostou, Zahy.`*
 
-— Que bom que gostou, Zahy.
+>— Pergunta se ela está livre sábado à noite!
 
-— Pergunta se ela está livre sábado à noite!
+*`Quem? Eu?`*
 
-— Quem? Eu?
+>— Sim. Você não está caidinho por ela?
 
-— Sim. Você não está caidinho por ela?
+*`Sou eu… ou você?`*
 
-— Sou eu… ou você?
-
-— Infelizmente — ou felizmente — não sei mais dizer.  
-— Não consigo separar os meus sentimentos dos seus.
-
-Silêncio.
-
-— Acho que estamos apaixonados por ela… — murmurou Zahy.
-
-—
+>— Infelizmente — ou felizmente — não sei mais dizer.  
+>
+>— — Há momentos em que não consigo separar os meus sentimentos dos seus.
+>
+>Silêncio.
+>
+>— Acho que estamos apaixonados por ela… — murmurou Zahy.
 
 — Kael… vamos pedir uma sobremesa? — perguntou Zaion.
 
@@ -166,7 +193,8 @@ Silêncio.
 
 — Eu pago a minha — disse Kael.
 
-— Mas fui eu que te convidei.  
+— Mas fui eu que te convidei. 
+ 
 — O cavalheirismo diz que quem convida paga.
 
 Kael sorriu.
@@ -177,7 +205,7 @@ Kael sorriu.
 
 — Vamos? — disse Kael, caminhando em direção ao caixa.
 
-[...]
+Caminharam juntos. Zaion observava os interesses dela pelas lojas. 
 
 — Oi, garotos! Já lancharam? — perguntou Kael.
 
@@ -187,22 +215,24 @@ Kael sorriu.
 
 — Claro. Tchau, meninos!
 
-—
-
 — Você conhece o Zaion desde quando? — perguntou Kael.
 
-— Desde que entrei no colégio, eu acho.  
-— Teve um dia em que minha mãe se atrasou… eu fiquei com medo.  
+— Desde que entrei no colégio, eu acho. 
+
+— Teve um dia em que minha mãe se atrasou… eu fiquei com medo. 
+ 
 — Ele ficou comigo até ela chegar.
 
 — E o Darian?
 
-— Parece santinho… mas já aprontou muito.  
+— Parece santinho… mas já aprontou muito. 
+ 
 — Mesmo assim, é como um irmão.
 
 — E o Leo?
 
-— Ele… ainda é meio criança.  
+— Ele… ainda é meio criança.
+  
 — Os dois, na verdade. Vivem competindo pela atenção do Zaion.
 
 Alin sorriu.
@@ -212,12 +242,15 @@ Alin sorriu.
 Kael desviou o olhar.
 
 — Às vezes até enche o saco — continuou Alin.  
+
 — E o Zaion… ele tá caidinho por você. Nem disfarça.
 
 — É… eu percebi — disse Kael.  
+
 — Mas ele não tem namorada?
 
 — Que eu saiba, não.  
+
 — E não é por falta de oportunidade.
 
 Pausa.
@@ -227,8 +260,6 @@ Pausa.
 — Sério?
 
 — Com certeza.
-
-—
 
 ## Sorvete e Retorno
 
@@ -246,9 +277,13 @@ Zeta sorriu de leve.
 
 — É… mas seria bom se eu pudesse.
 
-—
+Cada um pediu seu sorvete.
+
+Alin, Leo e Ryo, experimentaram o sorvete um do outro, rindo e comentando.
 
 — Vamos. O Marcos vai nos levar para casa.
+
+O primeiro a desembarcar foi o Zeta.
 
 — Tchau, Zeta. Até amanhã!
 
@@ -258,20 +293,34 @@ O clima mudou… só um pouco.
 
 — Ah… é verdade — respondeu Zaion.
 
+Na sequência, Alin chega. Uma casa bonita, cheia de flores... um cão latia desesperadamente.
+
 — Tchau, Alin! — gritaram os garotos.
 
-—
+A mini-van para na frente de um prédio.
+
+Kael olhou para Zaion por um instante.
+
+Havia algo naquele olhar…
+
+Como um silencioso:
+
+Me chama de novo.
 
 — Chegamos. Até amanhã, Zaion.
 
 Zaion hesitou.
 
-— Foi muito bom jantar com você…  
+— Foi muito bom jantar com você… 
+ 
 — espero que possamos repetir.
 
 Ele percebeu o tom… depois que falou.
 
 Kael apenas sorriu.
+
+A mini-van seguiu, mas Zaion e Zahroniel já não eram mais os mesmos.
+
 
 |[` < voltar `](02-05-acesso-e-travamento.md)| [` avançar > `](02-07-o-pesadelo-de-zeta.md)|
 |--------|-----|

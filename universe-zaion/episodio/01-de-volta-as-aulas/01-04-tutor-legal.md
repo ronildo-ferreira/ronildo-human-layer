@@ -1,10 +1,10 @@
-**Sala de aula / secretaria**
+## Sala de aula / secretaria
 
 A porta estava fechada.
 
 (Franzi a testa.)
 
-*Terça-feira. Matemática. Não programação.*
+*`Terça-feira. Matemática. Não programação.`*
 
 (Olhei o corredor. Vazio.)
 
@@ -18,21 +18,21 @@ A porta estava fechada.
 
 — Entre, Zaion. Como eu dizia…
 
-*A aula já estava no meio.*
+*`A aula já estava no meio.`*
 
 (Sentei rápido. Caderno aberto. Caneta na mão.)
 
-*Nada na cabeça.*
+*`Nada na cabeça.`*
 
 (Minutos depois… uma batida leve na porta.)
 
 — Bom dia, professora! Preciso falar com o Zaion — a voz veio do corredor.
 
-*Fabiana. Secretaria.*
+*`Fabiana. Secretaria.`*
 
 — Venha comigo. É rápido.
 
-*Não é.*
+*`Não é.`*
 
 (Peguei o material e saí.)
 
@@ -42,30 +42,41 @@ Na sala da secretaria… ele estava lá. O advogado.
 
 (Pasta aberta. Papéis organizados demais.)
 
->— Precisamos da sua assinatura.
+— Bom Dia! Senhor Zaion, precisamos que leia e assine estes termos.
 
-*Eles são sempre assim frios e burocráticos.*
+— Bom Dia!
 
-*Folhas. Termos. Nomes.*
+(Peguei os papeis.)
 
-*Darian. Juizado de menores. Tutor legal.*
+*`Eles são sempre assim frios e burocráticos.`*
 
-(Assinei. Rápido demais. Como sempre.)
+*`Folhas. Termos. Nomes.`*
 
->— Está tudo certo!
->— Um bom dia para o senhor.
+*`Darian. Juizado de menores. Tutor legal.`*
+
+(Assinei.)
+
+Rápido demais.
+
+Como sempre.
+
+— Está tudo certo!
+
+— Esta é a copia do senhor. Tenha um bom dia.
 
 (Ele organiza as folhas e me entrega uma cópia.)
 
-*Claro. Sempre está. Chatice*
+*`Claro. Sempre está.`*
 
 (Saí da sala com os papéis na mão. Respirei fundo.)
 
-*Desde a minha emancipação… as coisas mudaram.*
+*`Desde a minha emancipação… as coisas mudaram.`*
 
-*Responsabilidades. Decisões. Assinaturas.*
+*`Responsabilidades. Decisões. Assinaturas.`*
 
-*Coisas que não deveriam ser minhas. Mas são. E ninguém perguntou se eu queria.*
+*`Coisas que não deveriam ser minhas. Mas são. E ninguém perguntou se eu queria.`*
+
+
 
 |[` < voltar `](01-03-entrada-da-escola.md)| [` avançar > `](01-05-equipe-e-missao.md)|
 |--------|-----|

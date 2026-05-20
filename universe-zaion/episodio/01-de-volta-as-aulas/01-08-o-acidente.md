@@ -1,4 +1,4 @@
-#O acidente
+## O acidente
 
 (Olhei pra ele. Dessa vez, sem brincar.)
 
@@ -11,6 +11,8 @@
 — Quando isso aconteceu? — perguntou.
 
 Rápido demais.
+
+Automático demais.
 
 — Logo, que acordei.
 
@@ -26,13 +28,22 @@ Rápido demais.
 
 — Registro indisponível.
 
-*Resposta limpa. Perfeita demais.*
+*`Resposta limpa. Perfeita demais.`*
+
+> *`Também não me lembro de muita coisa.`*
+>
+> *`A primeira vez que vi este mundo, foi no acidente.`*
+>
+> *`Será que este evento afetou o Leo e o Zeta?`*
+>
+> *`O que será que aconteceu?`*
+
 
 (Olhei pra ele. Mas antes que eu dissesse qualquer coisa.)
 
 — Zaion! — a voz do Léo explodiu no ambiente. — Cadê o sorvete?!
 
-(Respirei. O mundo voltou.)
+(Respirei fundo.)
 
 — Eu também quero! — gritou Ryo.
 
@@ -40,7 +51,7 @@ Rápido demais.
 
 — Vou fazer o pedido.
 
-— Não esqueca da Alin! — lembrou Ryo.
+— Não esquece da Alin! — lembrou Ryo.
 
 — Pode deixar.
 
@@ -49,12 +60,14 @@ Rápido demais.
 — Obrigada, Zaion.
 
 > **PERFIL DO INDIVÍDUO: ALIN**
-> 
-> Indivíduo da espécie Humana. Idade cronológica: 12 anos. 
-> 
-> **Status de Rotina:** Tranquila. Inteligente e astuta. Companheira do Léo e do Ryo.
-> 
-
+>
+> Indivíduo da espécie humana. Idade cronológica: 12 anos.
+>
+> **Status de Rotina:** Estudante do ensino fundamental. Inteligente, observadora e tranquila. Mantém forte proximidade com Leo e Ryo, participando naturalmente das aventuras e discussões dos dois.
+>
+> **Conflito Interno:** Apesar da pouca idade, enxerga o mundo com maturidade incomum e costuma analisar as situações antes de reagir. Esconde suas inseguranças atrás de uma postura calma e racional, mas sente dificuldade em demonstrar quando algo realmente a afeta. Muitas vezes percebe mais do que os outros imaginam — e prefere guardar isso para si.
+>
+> **REGISTRO FINALIZADO.**
 
 (Toquei na tela.)
 

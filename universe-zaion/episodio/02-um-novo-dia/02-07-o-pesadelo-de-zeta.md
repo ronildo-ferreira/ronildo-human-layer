@@ -1,4 +1,4 @@
-# O Pesadelo de Zeta
+## O Pesadelo de Zeta
 
 — Obrigado, Marcos. Nos vemos amanhã.
 
@@ -10,30 +10,44 @@
 
 — Agora, cada um para seu quarto! — respondeu Zaion, tentando encerrar o assunto.
 
-—
+*`Hoje foi um dia maravilhoso.`*
 
-— Hoje foi um dia maravilhoso — pensei, escovando os dentes.
+>— É verdade. Aquele prato estava divino…  
+>
+>— E a companhia… mais ainda — comentou Zahroniel.
 
-— É verdade. Aquele prato estava divino…  
-— E a companhia… mais ainda — comentou Zahroniel.
+*`Você tá gostando dela?`*
 
-— Você tá gostando dela?
+>— Quem, eu?
 
-— Quem, eu?
+*`É, Zahy!`*
 
-— É, Zahy!
+>— Como já te disse… não consigo separar os meus sentimentos dos seus.
+>
+>Silêncio.
+>
+>— Acho que estamos apaixonados por ela, Zahy.
 
-— Como já te disse… não consigo separar os meus sentimentos dos seus.
+*`Boa noite.`*
 
-Silêncio.
+>— Boa noite.
+>*`Estranho…`*
+>
+>*`Ela realmente me chamou atenção.`*
+>
+>*`Pode ser… mas ela ainda é adolescente…`*
+>
+>*`Sinto que estou mudando.`*
+>
+>*`Parece que meus gostos e interesses de adolescente estão voltando...`*
+>
+>*`Não sei. Tomara que seja só impressão.`*
 
-— Acho que estamos apaixonados por ela, Zahy.
+Algum tempo depois…
 
-— Boa noite.
+o celular tocou.
 
-[...]
-
-— Minha mãe se esqueceu do fuso horário de novo — pensei, pegando o celular.
+*`Minha mãe se esqueceu do fuso horário de novo.`*
 
 — Oi, mãe… pode ligar mais tarde? Agora é madrugada…
 
@@ -47,8 +61,6 @@ Zaion franziu a testa.
 
 — É o Zeta.
 
-—
-
 Zaion despertou imediatamente.
 
 — Zeta?! O que aconteceu?
@@ -61,7 +73,8 @@ Zaion hesitou.
 
 — Como assim?
 
-— Entrei em standby, como sempre.  
+— Entrei em standby, como sempre. 
+ 
 — Tudo ficou escuro…
 
 Pausa.
@@ -72,12 +85,14 @@ Zaion se sentou na cama.
 
 — Que cena?
 
-— Eu estava perto da piscina.  
-— Alguém trombou comigo… e eu caí.
+— Eu estava perto da piscina. 
+ 
+— Alguém esbarrou em mim… e eu caí.
 
 A voz de Zeta falhou por um instante.
 
-— Comecei a me debater…  
+— Comecei a me debater…
+
 — sentindo que não conseguia respirar…
 
 Silêncio.
@@ -91,7 +106,9 @@ Zaion respirou fundo.
 Pausa.
 
 — Você não respira.  
+
 — Seu sistema é resistente à água.  
+
 — E, se caísse, você conseguiria sair facilmente.
 
 Zaion tentou soar seguro.
@@ -100,12 +117,14 @@ Zaion tentou soar seguro.
 
 Do outro lado, uma pausa mais longa.
 
-— É…  
+— É… 
+ 
 — eu tinha me esquecido disso.
 
 Zaion suavizou o tom.
 
 — Volta a descansar, Zeta.  
+
 — Amanhã a gente conversa melhor.
 
 Silêncio.

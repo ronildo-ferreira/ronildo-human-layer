@@ -1,20 +1,44 @@
-# Entre o sonho e a voz
+## Entre o sonho e a voz
 
 (Silêncio. Respiração lenta.)
 
->— Ele dormiu…
-
-A voz surgiu. Distante.
-
->— Talvez assim… seja mais fácil.
+>*`A vida como eu conhecia se foi.`*
+>
+>*`Tenho que seguir em frente...`*
+>
+>*`O que estou fazendo com ele... não é justo.`*
+>
+>*`A escola... A Kael... ela mexeu comigo... admito.`*
+>
+>*`Me recordou de quem sou.`*
+>
+>*`Se isto não tem volta... preciso dele como amigo.`*
+>
+>*`Quem sabe se conversar com ele, como sugeriu o Zeta.`*
+>
+>*`Ele dormiu…`*
+>
+>*`Talvez assim… seja mais fácil.`*
 >
 >(Pausa.)
 >
 >— Zaion…
 >
->— Desde que estou com você… eu vejo sua força.
+>*`Isso é mais difícil do que imaginei.`*
+
+A voz surgiu. Distante.
+
+>— Desde que estou com você… 
 >
->— Eu também não entendo tudo.
+>— Eu... joguei as minhas frustrações...
+>
+>— e a raiva do que me aconteceu... em cima de você.
+>
+>— Quando ela apareceu, eu comecei a perceber o mal que estava te causando...
+>
+>— Deste momento em diante, comecei a te perceber, ver sua força.
+>
+>— Eu também não entendo tudo... como chegamos a esta situação.
 >
 >— Mas sei de uma coisa…
 >
@@ -22,9 +46,11 @@ A voz surgiu. Distante.
 >
 >— nós estamos ligados.
 >
->O mundo mudou.
+>— O mundo mudou.
 >
->Ou… foi substituído.
+>(Pausa.)
+>
+>— Ou foi substituído.
 >
 >— Eu tinha uma vida.
 >
@@ -32,19 +58,29 @@ A voz surgiu. Distante.
 >
 >— E então… ele acabou.
 >
->Silêncio.
+>(Silêncio.)
 >
 >— E nosso começou.
 
 Meu corpo não se movia. Mas eu estava ouvindo, a voz…
 
->— Agora, estou vivendo duas realidades… um aqui com você…
->(Pausa.)
->— Outra… física… que nem sei onde é… só sei que não é mais onde vivia…
+>— Agora… eu vivo entre duas realidades.
 >
->— Estou em dois mundos.
+>— Esta… que eu vejo através de você.
 >
->— E parte de mim… está em você.
+>— E a outra…
+>
+>— o mundo que ficou nas minhas memórias.
+>
+> (Pausa.)
+>
+>— Um mundo que talvez nem exista mais.
+>
+>— Mas que ainda continua vivo dentro de mim.
+>
+>— E parte dele…
+>
+>— agora vive em você.
 >
 >(Pausa.)
 >
@@ -53,6 +89,7 @@ Meu corpo não se movia. Mas eu estava ouvindo, a voz…
 Algo apertou no peito.
 
 >— Eu não escolhi isso.
+>
 > (Silêncio.)
 >
 >— Tudo o que eu queria… era meu mundo de volta.
@@ -87,19 +124,19 @@ Algo apertou no peito.
 
 — E o Léo?
 
->— Ele não lembra. Acho. Como os outros.
+>— Ele não lembra. Acho.
 
-— Como os outros.
+>— Como os outros.
 
-(Pausa.)
+>(Pausa.)
 
 >— Olha. Ao que parece só você se lembra ou reconhece que não sou seus pensamentos.
 
 — E o Zeta.
 
-*O nome ecoou.*
+*`O nome ecoou.`*
 
->— Não sei o que aconteceu com ele, ou qual a relação dele conosco. Por enquanto… esqueça isso.
+>— Não sei o que aconteceu com ele, ou qual a relação dele conosco.
 
 (Silêncio. Respirei. Mais calmo.)
 
@@ -107,11 +144,17 @@ Algo apertou no peito.
 
 (Silêncio.)
 
->— Eu sou... ou era Zahroniel.
+>— Eu sou… ou era…
+>
+>— Zahroniel Syrran.
 >
 >(Pausa.)
 >
->— Agora… não sei mais o que sou.
+>— Todos olham você, mas eu as vejo... através dos seus olhos... não as conheço... mas...
+>
+>— Sinto que elas falam comigo... e me chamam de Zaion...
+> 
+>— Agora… não sei mais quem sou.
 
 (Silêncio.)
 

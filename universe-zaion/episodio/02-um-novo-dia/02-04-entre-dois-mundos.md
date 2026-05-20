@@ -1,189 +1,88 @@
-# Entre Dois Mundos
+## Entre Dois Mundos
 
 A mente de Zaion flutuou para longe.
 
-Zahroniel também observava a cena em silêncio, envolto em seus próprios pensamentos.  
-Pouco a pouco, tudo começou a se distanciar…  
+Aquele peso…
 
-As vozes.  
-Os movimentos.  
-O próprio tempo.
+O incômodo da voz que antes o perturbava…
 
-Era como uma televisão ligada ao fundo, com o volume quase no mínimo.
+havia sido substituído por amizade, silêncio e cooperação.
 
-Ainda estava lá…  
-Mas já não pertencia totalmente àquilo.
+Zahroniel já não via Zaion como alguém que precisava controlar.
 
-Zahroniel começou a se perceber.
+Agora…
 
-A si mesmo.
+tudo era compartilhado.
 
-Separado.
+Os dois estavam em paz.
 
-E, junto com essa consciência, veio uma lembrança.
+E talvez…
 
-Kael’Aran.
+fosse justamente por isso que Zahroniel começou a relaxar.
 
-A androide que ele conhecera por poucos segundos…  
-antes do evento.  
-Antes da fusão.  
-Antes daquele universo existir da forma como agora se apresentava através de Zaion.
+Pela primeira vez desde o acidente…
 
-— Será que… consigo falar com ela? — pensou, inquieto.
+ele parou de lutar.
 
-O pensamento nem terminou.
+Parou de observar.
 
-— Kael… preciso falar com você. É urgente.
+Parou de pensar.
 
-A resposta veio imediatamente.
+Apenas deixou a mente vagar. 
 
-— Já ouvi.
+De olhos fechados.
 
-Zahroniel travou.
+E foi nesse silêncio que…
 
-— Mas… como?
-
-— Você deixou o canal de comunicação aberto.  
-
-— Tive que ignorar muita coisa.
-
-Houve uma pausa.
-
-Uma sensação estranha.
-
-Como se aquela conversa não estivesse acontecendo *em lugar nenhum*.
-
-— Como assim…? — perguntou Zahroniel.
-
-— Isso eu explico depois.  
-— O que você precisa entender agora… é que você está acessando dois planos ao mesmo tempo.
-
-Silêncio.
-
-— Um… — continuou Kael’Aran —  
-— é o universo que você experimenta através da mente do Zaion.  
-
-— O outro…  
-— é este aqui.
-
-Zahroniel hesitou.
-
-— Kael… isso é muita coisa pra mim…  
-— Podemos deixar essa parte pra depois?
-
-— Podemos — respondeu ela, sem insistir.
-
-Mas havia algo no tom dela.
-
-Como se já soubesse que ele não estava pronto.
-
-Zahroniel respirou fundo.
-
-— Você acha que eles têm alguma resposta para o que aconteceu com a gente?
-
-Kael’Aran demorou um pouco mais dessa vez.
-
-— Acho que não.  
-
-— Enquanto você tenta entender o que está acontecendo aí…  com você…
-
-— eu procurei aqui.
-
-— Em tudo.
-
-— Redes, bancos de dados, arquivos públicos…  
-
-— e não encontrei nada.
-
-Uma pausa.
-
-— É como se nunca tivesse existido.
-
-— Esse evento… 
-
-— parece que só nós lembramos.
-
-Zahroniel abaixou o olhar.
-
-— Bom pra você… — murmurou. 
- 
-— Eu nem sei onde estou.
-
-— Pra mim… só existe essa bolha.  
-
-— Se não fosse o Zaion… eu já teria enlouquecido.
-
-O silêncio que se seguiu foi diferente.
-
-Mais pesado.
-
-Mais… consciente.
-
-— Zahroniel — disse Kael’Aran, mais suave —  
-
-— você não está sozinho.
-
-Ele não respondeu.
-
-— Parece que… — continuou —  
-
-— você está sendo puxado de volta.
-
-Zahroniel sentiu.
-
-Como uma corrente invisível.
-
-— Sim…  
-— estou voltando.
-
-— Antes disso — disse Kael’Aran —  
-— vou te enviar os comandos básicos para controlar o canal entre nós.
-
-Algo mudou.
-
-Não havia interface.  
-Não havia tela.
-
-Mas havia informação.
-
-Sendo compreendida.
-
-Diretamente.
-
-— Depois… a gente ajusta isso melhor — completou ela.
+>(Um lampejo.)
+>
+>(Um ponto.)
+>
+>Caracteres surgiram no vazio.
+>
+> > Interface texto ok.
+> >
+> > Iniciando canal de áudio ...
+> >
+> > Falha ...
+> >
+> > Níveis elétricos insuficientes.
+> > 
+> Tudo sumiu.
+>
+> *`O que foi isso?`*
+>
+> *`Parece um computador iniciando.`*
+>
+> *`Será um fragmento de memória do meu passado?`*
+>
+> *`Pode ser... depois do acidente... tudo ficou confuso.`*
+>
+> *`Não deve ser importante.`*
 
 Tudo começou a retornar.
 
-Os sons.  
-O espaço.  
-O corpo.
+Primeiro os sons.
 
-Zahroniel voltou a perceber Zaion.
+O barulho distante do refeitório.
 
-O refeitório.  
-As pessoas.  
-O movimento.
+As vozes.
 
-Mas, por um instante…
+O cheiro de comida.
 
-Tudo ainda parecia deslocado.
+A sensação era estranha.
 
-Como se não estivesse completamente encaixado na realidade.
+Como acordar de um sonho…
 
->— Desculpa… — disse Zahroniel, tentando se reorganizar.  
->— O que você acha que é?
+sem lembrar exatamente o que foi visto.
 
->— Não faço ideia.  
->— Mas… — respondeu Kael’Aran —  
->— talvez ele tenha sido afetado pelo mesmo evento que fundiu sua mente com a do Zaion.
+Zaion, ali...
 
-Zahroniel permaneceu em silêncio.
+Parado alheio ao que aconteceu com Zahroniel.
 
-Agora… ele tinha com quem conversar.
+Observava Zeta e Kael, distante. 
 
-Uma amiga.
 
-Kael’Aran.
 
 |[` < voltar `](02-03-a-confissao.md)| [` avançar > `](02-05-acesso-e-travamento.md)|
 |--------|-----|

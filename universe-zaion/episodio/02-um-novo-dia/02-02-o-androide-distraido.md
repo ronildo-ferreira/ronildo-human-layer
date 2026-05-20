@@ -2,11 +2,11 @@
 
 (Sala de aula)
 
-— Bom dia, pessoal! Hoje vocês devem elaborar o roteiro do artigo, HQ e os slides de apresentação. Cada grupo deve postar os materiais no ambiente virtual até o final da aula. Organizem bem as tarefas e tirem dúvidas. Vamos trabalhar! — disse o professor.
+— Bom dia, pessoal! Hoje vocês devem elaborar o roteiro do artigo, HQ e os slides de apresentação. Cada grupo deve postar os materiais no ambiente virtual. Organizem bem as tarefas e tirem dúvidas. Vamos trabalhar! — disse o professor.
 
 — Oi... Kael! Tudo... bem?
 
-*Nossa, ela está radiante...*
+*`Nossa, ela está radiante...`*
 
 (Sentei-me à mesa de estudos.)
  
@@ -41,11 +41,11 @@
 
 — Além disso — continuou Kael — o artigo deve ser escrito em Markdown, com linguagem clara, exemplos e organização por tópicos.  
 
-— OK! — disse Kael, anotando.  
+— OK? — perguntou Kael, anotando.  
 
 — Bom dia, pessoal! — disse Zeta.
  
-— Bom dia! — respondemos quase em coro.  
+— Bom dia, Zeta! — respondemos quase em coro.  
 
 — O que já temos pronto? — perguntou Zeta.  
 
@@ -53,7 +53,13 @@
 
 — Sobre o quê?  
 
-— Os slides, Zeta! — disse Kael, meio zangada. Primeiro o Zaion... agora você!!
+— Os slides, Zeta! — disse Kael, meio zangada.
+
+(Kael suspirou.)
+
+— Primeiro o Zaion…
+
+— agora você?
 
 — Os slides devem servir como apoio à apresentação, então precisam ser objetivos — respondeu Zeta.
 
@@ -99,7 +105,7 @@
 
 — Vou ter que fazer isso também? — perguntou Zeta.  
 
-— Desculpa, Zeta… esqueço que você já é uma IA autônoma. Eu cuido dessa parte — respondeu Zaion.  
+— Desculpa, Zeta… esqueço que você é uma IA autônoma. Eu cuido dessa parte — respondeu Zaion.  
 
 — Importante — disse Kael — cada parte deve ser organizada no repositório:  
 
@@ -115,15 +121,15 @@
 
 >— Zaion, Zaion!
   
-*Que foi, Zahy?*
+*`Que foi, Zahy?`*
  
 >— Zahy?
 
-*Seu nome é muito complicado, então encurtei. Mas o que você quer?*
+*`Seu nome é muito complicado, então encurtei. Mas o que você quer?`*
 
 >— Gostei! Ah, e para de olhar pra ela, você vai deixá-la encabulada...  
 
-*Entendi!*
+*`Entendi!`*
 
 (Respondi em pensamento, desviando o olhar para Zeta.)
 
@@ -147,7 +153,11 @@ Divergência. De novo essa palavra.
 
 — Fala!
 
-— A gente pode conversar depois? 
+— Depois…
+
+(Pausa.)
+
+— Podemos conversar? 
 
 — Ok — respondeu Zaion.
 

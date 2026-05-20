@@ -1,4 +1,4 @@
-#O almoço — pedido de sorvete
+## O almoço — pedido de sorvete
 
 — Mano… posso comprar um sorvete depois? — Léo perguntou, já animado.
 
@@ -8,9 +8,9 @@
 
 (Pausa.)
 
-*Não consigo resistir a essa cara que você faz.*
+*`Não consigo dizer não quando você faz essa cara.`*
 
-*Ele fez de propósito.*
+*`Ele fez de propósito.`*
 
 — Ei…
 
@@ -26,9 +26,15 @@
 
 — Pra ser sincero…
 
-— não faço ideia.
+— eu também não faço ideia.
 
 — Ihh… — Ryo apareceu, sentando do nosso lado. — Tá apaixonado pela Kael.
+
+> *`Sim... o pirralho tem razão.`*
+>
+> *`É o Zaion.`*
+>
+> *`Não eu!`*
 
 — Não é nada disso! — Léo respondeu rápido. — Ele só não dormiu direito.
 
@@ -38,7 +44,7 @@
 
 — E você? Vive atrás da Alin.
 
-— É mentira! — Léo ficou vermelho. — Para com isso!
+— É mentira! — Léo ficou sem graça. — Para com isso!
 
 — Zaion, fala pra ele!
 
@@ -52,7 +58,7 @@
 
 (Silêncio.)
 
-*Funcionou. Definitivamente tô parecendo o papai…*
+*`Funcionou. Definitivamente tô parecendo o papai…`*
 
 (Levantei. Olhei em volta.)
 

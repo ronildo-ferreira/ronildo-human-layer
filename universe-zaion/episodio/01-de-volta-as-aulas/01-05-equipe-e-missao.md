@@ -1,10 +1,10 @@
-**Aula de programação: a missão**
+## Aula de programação: a missão
 
 — Bom dia, professor! Desculpa o atraso… tive uns problemas.
 
 Tentei parecer maduro.
 
-*Tô parecendo meu pai.*
+*`Tô parecendo meu pai.`*
 
 — Bom dia, Zaion — ele respondeu, sem surpresa. — Já distribuí as tarefas.
 
@@ -12,7 +12,11 @@ Tentei parecer maduro.
 
 — Sua equipe vai apresentar uma aula sobre Git e GitHub.
 
-*Git. GitHub. Aquilo ficou na minha cabeça.*
+*`Git.`*
+
+*`GitHub.`*
+
+*`Aquilo ficou na minha cabeça.`*
 
 — Vocês vão escrever um artigo… e criar os materiais didáticos.
 
@@ -22,9 +26,7 @@ Tentei parecer maduro.
 
 — Kael e Zeta.
 
-(Silêncio.)
-
-*Depois de “Kael”… eu não ouvi mais nada.*
+*`Depois de “Kael”… eu não ouvi mais nada.`*
 
 — Zaion?
 
@@ -36,13 +38,49 @@ Tentei parecer maduro.
 
 (Caminhei até eles. Coração acelerado.)
 
-*Estranho. Eu nunca me senti assim antes. Talvez… aquilo fosse o começo de alguma coisa.*
+*`Estranho.`*
+
+*`Eu nunca me senti assim antes.`*
+
+*`Talvez… aquilo fosse o começo de alguma coisa.`*
 
 Kael foi a primeira a falar.
 
 — Eu sei que pode parecer estranho…
 
 (Ela sorriu de leve.)
+
+> *`Ela é bonita.`*
+>
+> *`Calma.`*
+>
+> *`Muita calma.`*
+>
+> O silêncio veio pesado logo depois.
+>
+> *`Não.`*
+>
+> *`Isso não faz sentido.`*
+
+Ela ajeitou o cabelo atrás da orelha enquanto organizava os materiais sobre a mesa.
+
+> *`Se ela fosse mais velha…`*
+>
+> A frase morreu antes de terminar.
+>
+> *`Espera.`*
+>
+> *`Sou eu… ou ele?`*
+>
+> Meu peito apertou outra vez.
+>
+> Confuso.
+>
+> *`Não.`*
+>
+> *`Isso é do Zaion.`*
+
+Kael olhou diretamente pra mim.
 
 — Mas eu tô animada com esse projeto.
 
@@ -58,7 +96,11 @@ Kael foi a primeira a falar.
 
 — Tipo IA? — perguntei.
 
-— Tipo isso. Não só o código… mas como ele começa a fazer sentido.
+— Tipo isso.
+
+— Não só o código…
+
+— mas o jeito como ele aprende padrões.
 
 (Zeta inclinou a cabeça.)
 
@@ -74,7 +116,7 @@ Kael foi a primeira a falar.
 
 — Proponho iniciarmos a divisão de tarefas.
 
-*Claro. Zeta sendo Zeta.*
+*`Claro. Zeta sendo Zeta.`*
 
 (Kael começou a escrever rápido no caderno.)
 
@@ -86,21 +128,25 @@ Ela continuou.
 
 — Git guarda o histórico do que a gente faz. Como se fosse uma memória.
 
-*É. Faz sentido. O Git registra mudanças e versões de arquivos ao longo do tempo*
+*`É. Faz sentido. O Git registra mudanças e versões de arquivos ao longo do tempo`*
 
 — E o GitHub… é onde a gente compartilha isso com os outros. Trabalha junto.
 
-*Uma espécie de rede de colaboração*
+*`Uma espécie de rede de colaboração`*
 
 — Controle de versão distribuído — Zeta completou. — Permite colaboração simultânea.
 
-— Então — Kael concluiu — não é só código. É colaboração. Razão, emoção e lógica.
+— Então… não é só código.
+
+— É gente trabalhando junto.
+
+— Cada um pensando de um jeito.
 
 (Ninguém falou nada. Mas fazia sentido. Assenti.)
 
 — A gente pode fazer isso funcionar.
 
-*Pela primeira vez em muito tempo… eu me senti parte de algo.*
+*`Pela primeira vez em muito tempo… eu me senti parte de algo.`*
 
 — Concordo. Missão registrada. E iniciada — Zeta finalizou.
 

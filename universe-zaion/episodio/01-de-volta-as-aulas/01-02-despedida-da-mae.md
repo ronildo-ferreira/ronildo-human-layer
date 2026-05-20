@@ -1,4 +1,4 @@
-# Cozinha da casa, despedida da mãe
+## Cozinha da casa, despedida da mãe
 
 — Bom dia, Zaion! Lembra que hoje eu e sua tia embarcamos para a Itália à tarde.
 
@@ -6,19 +6,29 @@
 
 — Você vai ficar responsável pelo Léo e o Darian, tá bem?
 
-*Ryo. Quase ninguém chamava ele de Darian.*
+*`Ryo. Quase ninguém chamava ele de Darian.`*
 
 — Ah, mãe, fala sério… — Léo cruzou os braços. — Eu não preciso de babá!
+
+> **PERFIL DO INDIVÍDUO: LEO**
+>
+> Indivíduo da espécie leão antropomórfico. Idade cronológica: 13 anos (biometria visual: 12 anos).
+>
+> **Status de Rotina:** Estudante do ensino fundamental.
+>
+> **Conflito Interno:** Ainda enxerga o mundo com simplicidade infantil e vê o irmão como referência. Percebe, aos poucos, que Zaion está mudando — e sente que ele está se afastando.
+>
+> **REGISTRO FINALIZADO.**
 
 — O Zaion é muito mandão!
 
 — Léo — a voz dela mudou — sem discussões.
 
-(Pausa.)
+Ela olhou para ele com uma autoridade que até me surpreendeu.
 
 — Obedeça seu irmão.
 
-(Silêncio.)
+Aqueles segundos de silêncio, parecia uma eternidade.
 
 — A van já tá chegando.
 
@@ -36,15 +46,17 @@
 
 — Tá certo, mãe. Boa viagem.
 
-*Falei baixo. Calmo demais… até pra mim.*
+*`Falei baixo. Calmo demais… até pra mim.`*
 
 (Quando percebi, o Léo já estava abraçado nela. Forte. Silencioso.)
 
-*Quase chorando.*
+*`Só falta ele começar a chorar.`*
 
-(Parei.)
+*`Ah, para… ela só vai viajar.`*
 
-*Por um instante… tudo pareceu diferente. Errado. Como se alguma coisa estivesse prestes a acontecer. E eu ainda não soubesse o quê.*
+De repente, me senti como se fosse o único no mundo.
+
+*`Por um instante… tudo pareceu diferente. Errado. Como se alguma coisa estivesse prestes a acontecer. E eu ainda não soubesse o quê.`*
 
 |[` < voltar `](01-01-quarto-do-zaion-manha-cedo.md)| [` avançar > `](01-03-entrada-da-escola.md)|
 |--------|-----|

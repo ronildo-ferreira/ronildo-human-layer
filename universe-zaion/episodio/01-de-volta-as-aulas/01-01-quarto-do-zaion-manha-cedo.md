@@ -4,7 +4,7 @@ Esta é uma obra de ficção inspirada no cotidiano tecnológico e na evolução
 
 Para navegar nesta história, familiarize-se com os comandos de interface:
 
-*   **`—` (Travessão):** Indica a voz ativa, o diálogo entre os personagens.Exemplo:
+*   **`—` (Travessão):** Indica a voz ativa, o diálogo entre os personagens. Exemplo:
 
 — Zaion, acorda!
 
@@ -16,14 +16,22 @@ Para navegar nesta história, familiarize-se com os comandos de interface:
 
 (Olhei para ele.)
 
-*   **`> ` (Citações):** Reservado para a voz do Sistema (Narrador), logs de sistema, mensagens de texto ou comunicações de personagens secundários. Exemplo: 
+*   **`> ` (Citações):** Reservado para a voz do Sistema (Narrador), logs de sistema, mensagens de texto e notificações.
 
 >**MENSAGEM:**
 >
->itens que não se equadram nos comandos de interface citados, aprecerão com texto normal
+>itens que não se enquadram nos comandos de interface citados, aparecerão com texto normal
 >
 >**FIM DA MENSAGEM.**
 
+*   **`> —`` (Citações e Travessão):** Indica a voz ativa, voz de um personagem ou mensagem de voz do sistema diretamente na mente de outro personagem. Exemplo:
+
+*`Bom dia, Zahroniel!`*
+>— Bom dia, Zaion!
+
+*   **`> ` (Citações em ***Itálico***):** Representa a telemetria interna (pensamentos e reflexões) de entidade/personagem que interage na mente de um personagem, mas cujos processos não são percebidos por ele. Exemplo: 
+
+>*`Nunca vi o Zaion tão cansado...`*
 
 **Diretrizes de Execução:**
 1.  **Imaginação Ativa:** A renderização dos cenários e atividades secundárias fica a cargo do seu processamento mental.
@@ -32,7 +40,7 @@ Para navegar nesta história, familiarize-se com os comandos de interface:
 
 ---
 
-# Quarto do Zaion, manhã cedo
+## Quarto do Zaion, manhã cedo
 
 > **PERFIL DO INDIVÍDUO: ZAION**
 > 
@@ -41,6 +49,8 @@ Para navegar nesta história, familiarize-se com os comandos de interface:
 > **Status de Rotina:** Vida saturada por compromissos e as demandas aceleradas da modernidade. 
 > 
 > **Conflito Interno:** Encontra-se na zona de colisão entre os impulsos da adolescência e o peso das responsabilidades adultas.
+>
+> **REGISTRO FINALIZADO.**
 
 — Zaion, acorda! Seu irmão já está pronto!
 
@@ -94,7 +104,7 @@ Meu corpo travou.
 
 >— Não posso falar.
 
-(Pausa. Zaion aperta os lençóis com força.)
+(Zaion aperta os lençóis com força.)
 
 >— E quando falo…
 >
@@ -110,7 +120,7 @@ Mais pesado.
 >
 >— e pensa.
 
-(Silêncio.)
+A voz deu lugar ao silêncio.
 
 Engoli seco.
 
@@ -118,21 +128,93 @@ Engoli seco.
 
 Minha voz falhou.
 
-— Que eu devia te ignorar.
-
-(Pausa.)
+— Que eu devia te ignorar... mas...
 
 — Mas não tá funcionando.
 
+>— Vai acreditar nesta besteira!
+
 Respirei fundo.
+
+— O que você quer que eu faça?. 
+
+— Você só existe na minha cabeça!
+
+*`Talvez seja melhor eu pedir um medicamento. Quem sabe resolva.`*
+
+>*`Olha, isso não vai funcionar. Você tem que superar isso. Entende?`*
+
+>*`Você devia tomar um café forte. Quem sabe você acorda! Que acha?`*
+
+(Nada. Só o silêncio.)
+
+>— Entendeu?
+
+— O que? Se você quer me enlouquecer está conseguindo.
+
+Fiquei parado, só esperando. Sentindo o momento que o silêncio seria rompido. 
+
+>*`Que estranho! Eu consigo ouvir o que ele fala e pensa...`*
+>
+>*`Quando falo, ele ouve e retruca ou me ignora. Mas agora... percebi que não ouve meus pensamentos.`*
+>
+>*`Você parece um nenezão, fica ai choramingando! Acorda seu tonto. Vai ficar aí se lamentando ou vai fazer alguma coisa além de reclamar? Nenezinho!`*
+>
+>*`Nada! Nenhuma reação!`*
+>
+>— Você é mimado! Né!
+
+— Ficar dando palpites na minha vida até dá para ignorar. Mas agora você vai me insultar também!
+
+>*`Agora é certeza! Você não ouve meus pensamentos.`*
 
 — Quem… é você?
 
-(Silêncio.)
+Então, segui-se um silêncio gélido.
 
-Um nome surgiu, sem que eu quisesse.
+Aí... um nome surgiu, sem que eu quisesse.
 
->Zahroniel.
+>— Zahroniel.
+
+(O nome ecoou como um disparo num corredor vazio. Meu corpo gelou.)
+
+> **PERFIL DO INDIVÍDUO: ZAHRONIEL**
+> 
+> **Aparência:** Indivíduo da espécie leão antropomórfico. 
+>
+> **Idade cronológica:** DESCONHECIDA. 
+> 
+> **Status de Rotina:** DESCONHECIDA.
+> 
+> **Conflito Interno:** DESCONHECIDA.
+>
+> **REGISTRO FINALIZADO.**
+
+(Apertei as têmporas com força.)
+
+*`Zahroniel? Eu nunca ouvi esse nome. Ninguém nunca me falou esse nome.`*
+
+*`Isso é aterrorizante: se o meu cérebro não inventou esse nome... então eu não estou apenas doente. Tem alguém aqui dentro.`*
+
+*`Não. Para com isso. É só o cansaço. É só um efeito colateral do acidente.`* 
+
+(Levantei-me da cama num salto, ignorando a vertigem.)
+
+— Tanto faz. 
+
+— Você não tem um RG, não tem um corpo.
+
+— Você é só eco.
+
+*`Vou tomar um banho frio. O médico disse que o silêncio ajuda. Se eu não te der atenção, você deixa de existir.`*
+
+(Caminhei até o banheiro sem olhar para trás, tentando abafar o som daquela palavra nova que insistia em vibrar na minha mente.)
+
+*`Zahroniel não existe. É só um ruído. Só um ruído...`*
+
+>*`Veremos por quanto tempo você consegue sustentar essa mentira, Zaion...`*
+
+
 
 | [` avançar > `](01-02-despedida-da-mae.md)|
 |--------|

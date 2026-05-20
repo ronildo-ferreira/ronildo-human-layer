@@ -6,15 +6,23 @@
 >
 >— Pode falar comigo em pensamento. Afinal, eu sou você… e você, eu.
 
-*Melhor assim. Se me verem falando sozinho… vai ser estranho.*
+*`Melhor assim. Se me verem falando sozinho… vai ser estranho.`*
  
-*Vou tomar banho, tomar café e ir pra escola.*
+*`Vou tomar banho, tomar café e ir pra escola.`*
 
 >— Eu vejo tudo o que você vê. Ouço tudo o que você ouve. Eu sou você.
  
-*Isso é… estranho. Tá… então é só seguir com a minha vida?*
+*`Isso é… estranho. Tá… então é só seguir com a minha vida?`*
 
 >— Exato.  
+
+*`Tratar você como outra pessoa… ajuda minha cabeça a lidar com isso.`*
+
+>— Mas eu sou outra pessoa.
+
+*`Você está com fome?`*
+
+>— Fisicamente não existo, mas se você está com fome eu também sinto.
 
 — Bom dia, Rita. Bom dia, meninos.
  
@@ -34,7 +42,11 @@
  
 — Bom dia, mamãe!
 
-— Ah, esqueci do fuso… você falou com o advogado?  
+— Muito frio aí?
+
+— Ah, esqueci do fuso… aqui estamos no verão.
+
+— Você falou com o advogado?  
 
 — Zaion, posso falar com ela? Por favor! — interrompeu Leo. 
 
@@ -48,7 +60,7 @@
 
 (Zaion, deixa os meninos no celular e conversa com Rita e Marcos.)
 
-— Rita, não precisa fazer jantar. Decidi fazer leva-los ao shopping depois da aula. Estou precisando relaxar um pouco.
+— Rita, não precisa fazer jantar. Decidi fazer o que eles querem, vou leva-los ao shopping depois da aula. Estou precisando relaxar um pouco.
 
 — Marcos, pode nos levar? 
 
@@ -72,11 +84,21 @@
 >
 >(Pausa.)
 >
->— Outras vezes, me desconecto… não completamente.
+>— Outras vezes…
+>
+>— Eu me desconecto.
+>
+>— Não completamente.
 > 
 >— Sabe quando você está estudando, mas também escutando música.
 >
->— Então… às vezes você se torna a música. Eu estou te ouvindo… mas não estou prestando atenção.  
+>— Então… às vezes você se torna a música. Eu estou te ouvindo… mas não estou prestando atenção.
+>
+>— Me desculpe, por ter te tratado tão mal. Me sinto em divida com você.
+
+*`Não se preocupe, eu ainda não consegui processar totalmente esta situação, mas agora que eu sei o que está acontecendo, em partes, fica mais fácil conviver com você, já pelo jeito seremos inseparáveis'*
+
+>— É você tem razão.  
 
 (De repente uma voz o traz para realidade.)
 

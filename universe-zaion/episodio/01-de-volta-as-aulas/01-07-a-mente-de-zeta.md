@@ -1,4 +1,4 @@
-#A mente de Zeta
+## A mente de Zeta
 
 — Você nunca desliga, né?
 
@@ -14,7 +14,7 @@
 
 — Interação social. Coleta de padrões comportamentais.
 
-*Faz sentido.*
+*`Faz sentido.`*
 
 (Respirei fundo. Baixei o tom.)
 
@@ -50,7 +50,7 @@
 
 — Minha estrutura cognitiva é dividida em três partes: um núcleo interno, um núcleo virtual e um núcleo coletivo.
 
-— Coletivo? perguntei surpreso.
+— Coletivo? — perguntei, surpreso.
 
 — Compartilhado com outros como eu. Nós trocamos informações.
 
@@ -100,7 +100,7 @@ Zeta respondeu sem hesitar:
 
 — Posso operar isoladamente.
 
-— E ajudar a reconstruir.
+— E ajudar na reconstrução.
 
 (Silêncio.)
 
@@ -129,13 +129,16 @@ Zeta respondeu sem hesitar:
 — técnico eletrônico.
 
 (Fiquei em silêncio.)
+
 >
->— KKKK... isso é foi engraçado.
+> — Hah…
+> — Okay… admito. Isso foi engraçado.
+> — Eu não esperava por essa.
 >
 
 (Não resisti. Caí na risada.)
 
-*Ha… então ele achou engraçado. Então essa voz na minha cabeça… não é só peso.*
+*`Ha… então ele achou engraçado. Então essa voz na minha cabeça… não é só peso.`*
 
 — Zeta isso é sério!
 

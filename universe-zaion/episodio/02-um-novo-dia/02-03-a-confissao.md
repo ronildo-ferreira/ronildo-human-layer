@@ -1,8 +1,13 @@
-# A Confissão
+## A Confissão
 
-— O refeitório está meio vazio hoje. Meninos, peguem esse dinheiro para almoçar, mas não comprem lanche.
+— O refeitório tá meio vazio hoje.
 
-— Obrigado, Zaion!  
+— Meninos, peguem isso pra almoçar.
+
+— Mas nada de lanche.
+
+— Obrigado, Zaion!
+
 — Valeu, mano!
 
 — Onde está o Zeta? — pensou Zaion, olhando ao redor. — Lá está ele.
@@ -11,12 +16,17 @@ Zaion se aproximou.
 
 — Oi, Zeta. Queria falar comigo?  
 
-— Sim… — respondeu Zeta, hesitante.  
+— Sim… — respondeu Zeta, hesitante.
+ 
 — Nem sei como dizer, mas queria pedir desculpas.
 
 — Desculpas por quê?  
 
-— Eu… nem sei como começar… estou com medo.
+— Eu…
+
+— Nem sei como começar.
+
+— Estou com medo.
 
 Zaion franziu a testa.
 
@@ -24,30 +34,40 @@ Zaion franziu a testa.
 
 — Por ter te prejudicado.
 
-— Ah, esquece. Você tinha razão quando falou aquilo. Foi culpa minha — respondeu Zaion.  
-— Você fez a sua parte. Eu joguei a noite toda e esqueci do trabalho.  
+— Ah… esquece isso.
+
+— Você tinha razão naquele dia.
+
+— Você fez a sua parte. Eu joguei a noite toda e esqueci do trabalho.
+ 
 — Mas o professor nos deu outra chance… e deu tudo certo.
 
-— Não é isso — interrompeu Zeta.  
+— Não é isso — interrompeu Zeta.
+ 
 — O acidente…  o fato de você e o Leo terem desmaiado… esse eco na sua cabeça… é culpa minha…
 
 Zaion ficou em silêncio por um instante.
 
-— Não se preocupe… você não é infalível. Ninguém é.  
+— Não se preocupe… você não é infalível. Ninguém é.
+  
 — E, mesmo você estando no controle naquele momento… acho que você também é uma vítima do acaso. Assim como eu e o Leo.
 
-— Quanto a isso, já resolvi. Está tudo bem.  
+— Quanto a isso, já resolvi. Está tudo bem.
+ 
 — Só não comenta esse assunto com ninguém.
 
 Zaion respirou fundo.
 
-— Mas me diz… por que você está com medo?  
+— Mas me diz… por que você está com medo?
+  
 — Androides podem sentir medo?
 
 Zeta demorou alguns segundos para responder.
 
-— Fui convocado para uma revisão amanhã.  
-— Os pais da Kael acreditam que o evento que fragmentou e alterou os dados da rede começou no meu servidor.  
+— Fui convocado para uma revisão amanhã.
+
+— Os pais da Kael acreditam que o evento que fragmentou e alterou os dados da rede começou no meu servidor.
+ 
 — Eles encontraram um arquivo estranho… e não conseguiram abrir.
 
 Zaion cruzou os braços.
@@ -60,8 +80,14 @@ Zaion cruzou os braços.
 
 Zeta abaixou o olhar.
 
-— Algumas rotinas novas apareceram. Até aí, tudo bem… eu estou sempre evoluindo.  
-— Mas existem arquivos criptografados que eu não reconheço.  
+— Algumas rotinas novas apareceram.
+
+— Isso não seria um problema.
+
+— Eu evoluo constantemente.
+  
+— Mas existem arquivos criptografados que eu não reconheço.
+  
 — E são diferentes de tudo que já vi.
 
 O silêncio entre os dois pesou.
