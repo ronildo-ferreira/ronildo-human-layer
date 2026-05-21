@@ -6,7 +6,7 @@ Esta é uma obra de ficção inspirada no cotidiano tecnológico e na evolução
 
 ---
 
-<img src="../../assets/img/universe-zaion-symbol.png" width="250">
+> <img src="../../assets/img/universe-zaion-symbol.png" width="200">
 
 ---
 
@@ -57,6 +57,10 @@ Para navegar nesta história, familiarize-se com os comandos de interface:
 > **Status de Rotina:** Vida saturada por compromissos e as demandas aceleradas da modernidade. 
 > 
 > **Conflito Interno:** Encontra-se na zona de colisão entre os impulsos da adolescência e o peso das responsabilidades adultas.
+>
+> ** IMAGEM REGISTRADA:** 
+>
+> > <img src="../../assets/img/zaion.png" width="200">
 >
 > **REGISTRO FINALIZADO.**
 
@@ -195,6 +199,10 @@ Aí... um nome surgiu, sem que eu quisesse.
 > **Status de Rotina:** DESCONHECIDA.
 > 
 > **Conflito Interno:** DESCONHECIDA.
+>
+> ** IMAGEM REGISTRADA:** 
+>
+> > <img src="../../assets/img/zahroniel.png" width="200">
 >
 > **REGISTRO FINALIZADO.**
 
