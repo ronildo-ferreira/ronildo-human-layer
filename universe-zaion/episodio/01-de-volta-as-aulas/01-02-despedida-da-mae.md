@@ -18,6 +18,10 @@
 >
 > **Conflito Interno:** Ainda enxerga o mundo com simplicidade infantil e vê o irmão como referência. Percebe, aos poucos, que Zaion está mudando — e sente que ele está se afastando.
 >
+> ** IMAGEM REGISTRADA:** 
+>
+> > <img src="../../assets/img/leo.png" width="200">
+>
 > **REGISTRO FINALIZADO.**
 
 — O Zaion é muito mandão!

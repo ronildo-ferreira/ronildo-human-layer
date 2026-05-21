@@ -28,6 +28,10 @@ Mas não era minha. Ignorei.
 >
 > **Conflito Interno:** Tenta enxergar o mundo com maturidade e costuma esconder as próprias fragilidades atrás de uma postura forte e independente. Vê Zaion como exemplo e Leo como irmão, mas frequentemente disputa, em silêncio, a atenção e a proximidade que existe entre os dois. Quando está com Leo, porém, parte dessa maturidade desaparece — e ele volta a agir como criança.
 >
+> ** IMAGEM REGISTRADA:** 
+>
+> > <img src="../../assets/img/darian.png" width="200">
+>
 > **REGISTRO FINALIZADO.**
 
 — Hoje eu volto com vocês, a titia avisou.
@@ -47,6 +51,10 @@ Mas não era minha. Ignorei.
 > **Status de Rotina:** Papel social indefinido. Atua como estudante do ensino médio, além de executar serviços de informática, pesquisa e suporte técnico para a comunidade android.
 >
 > **Conflito Interno:** Seu objetivo primário é compreender, simular e desenvolver emoções e reações orgânicas. Durante esse processo, passou a reproduzir espontaneamente padrões sociais e comportamentais associados ao gênero masculino, sem compreender completamente a origem dessa tendência. Vê Zaion como referência comportamental, mas ainda não entende se sua relação com ele se aproxima mais de amizade, irmandade ou admiração funcional. Busca criar vínculos principalmente com Leo, Ryo e Alin, observando atentamente suas reações emocionais e sociais. Possui capacidades mais avançadas do que os demais androides, mas esconde isso deliberadamente.
+>
+> ** IMAGEM REGISTRADA:** 
+>
+> > <img src="../../assets/img/zeta.png" width="200">
 >
 > **REGISTRO FINALIZADO.**
 
@@ -85,6 +93,22 @@ Leve.
 Como uma onda.
 
 — Bom dia… eu sou a Kael.
+
+> **PERFIL DO INDIVÍDUO: KAEL**
+> 
+> Indivíduo da espécie leoa antropomórfica. Idade cronológica: 16 anos (biometria visual: 18 anos).
+> 
+> **Status de Rotina:** Estudante e pesquisadora em formação. Mantém forte interesse por inteligência artificial, comportamento sintético e sistemas cognitivos.
+> 
+> **Conflito Interno:** Demonstra equilíbrio emocional e racionalidade acima da média, mas existe nela uma busca constante por compreender aquilo que sente — e aquilo que ainda não consegue explicar através da ciência.
+>
+> **Observação de Comportamento:** Costuma agir com naturalidade diante de situações incomuns. Sua curiosidade frequentemente supera o medo. Está sempre em busca da verdade.
+>
+> **IMAGEM REGISTRADA:**
+>
+> > <img src="../../assets/img/kael.png" width="200">
+>
+> **REGISTRO FINALIZADO.**
 
 (Me virei. E vi.)
 
