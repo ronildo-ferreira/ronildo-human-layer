@@ -200,7 +200,7 @@ Aí... um nome surgiu, sem que eu quisesse.
 > 
 > **Conflito Interno:** DESCONHECIDA.
 >
-> ** IMAGEM REGISTRADA:** 
+> **IMAGEM REGISTRADA:** 
 >
 > > <img src="../../assets/img/zahroniel.png" width="200">
 >

@@ -28,7 +28,7 @@ Mas não era minha. Ignorei.
 >
 > **Conflito Interno:** Tenta enxergar o mundo com maturidade e costuma esconder as próprias fragilidades atrás de uma postura forte e independente. Vê Zaion como exemplo e Leo como irmão, mas frequentemente disputa, em silêncio, a atenção e a proximidade que existe entre os dois. Quando está com Leo, porém, parte dessa maturidade desaparece — e ele volta a agir como criança.
 >
-> ** IMAGEM REGISTRADA:** 
+> **IMAGEM REGISTRADA:** 
 >
 > > <img src="../../assets/img/darian.png" width="200">
 >
@@ -52,7 +52,7 @@ Mas não era minha. Ignorei.
 >
 > **Conflito Interno:** Seu objetivo primário é compreender, simular e desenvolver emoções e reações orgânicas. Durante esse processo, passou a reproduzir espontaneamente padrões sociais e comportamentais associados ao gênero masculino, sem compreender completamente a origem dessa tendência. Vê Zaion como referência comportamental, mas ainda não entende se sua relação com ele se aproxima mais de amizade, irmandade ou admiração funcional. Busca criar vínculos principalmente com Leo, Ryo e Alin, observando atentamente suas reações emocionais e sociais. Possui capacidades mais avançadas do que os demais androides, mas esconde isso deliberadamente.
 >
-> ** IMAGEM REGISTRADA:** 
+> **IMAGEM REGISTRADA:** 
 >
 > > <img src="../../assets/img/zeta.png" width="200">
 >

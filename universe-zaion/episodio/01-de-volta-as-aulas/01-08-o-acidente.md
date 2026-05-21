@@ -67,7 +67,7 @@ Automático demais.
 >
 > **Conflito Interno:** Apesar da pouca idade, enxerga o mundo com maturidade incomum e costuma analisar as situações antes de reagir. Esconde suas inseguranças atrás de uma postura calma e racional, mas sente dificuldade em demonstrar quando algo realmente a afeta. Muitas vezes percebe mais do que os outros imaginam — e prefere guardar isso para si.
 >
-> ** IMAGEM REGISTRADA:** 
+> **IMAGEM REGISTRADA:** 
 >
 > > <img src="../../assets/img/alin.png" width="200">
 >
