@@ -58,7 +58,7 @@ Para navegar nesta história, familiarize-se com os comandos de interface:
 > 
 > **Conflito Interno:** Encontra-se na zona de colisão entre os impulsos da adolescência e o peso das responsabilidades adultas.
 >
-> ** IMAGEM REGISTRADA:** 
+> **IMAGEM REGISTRADA:** 
 >
 > > <img src="../../assets/img/zaion.png" width="200">
 >
