@@ -1,6 +1,14 @@
+# Universo Zaion
+
 ### 🖥️ Protocolo de Inicialização: Instruções ao Usuário
 
 Esta é uma obra de ficção inspirada no cotidiano tecnológico e na evolução da inteligência artificial. Aqui, o aprendizado não é um fardo acadêmico, mas uma ferramenta de exploração. 
+
+---
+
+<img src="../../assets/img/universe-zaion-symbol.png" width="250">
+
+---
 
 Para navegar nesta história, familiarize-se com os comandos de interface:
 
