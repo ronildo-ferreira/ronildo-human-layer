@@ -26,7 +26,8 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 |--------|-----|-----|-----|-|-|
 | M1 | Lista de Exercícios (L1) | ATV-CPP-001-lista-execicios.md | 07/05/2026|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/cpp/ATV-CPP-001-lista-execicios.md)| |
 | M2 | Lista de Exercícios (L2) | Organizar no git | 11/06/2026 | [Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/cpp/ATV-CPP-002-lista-execicios.md)||
-| M3 | Portfólio| Análise do Github do grupo (1BIM e 2BIM) | 18/04/2026|[Abrir]() | |
+| M3 | Desafio| Desafio em C++ | 16/06/2026|[Abrir](https://learn.microsoft.com/pt-br/cpp/windows/latest-supported-vc-redist?utm_source=chatgpt.com) | |
+| M4 | Portfólio| Análise do Github do grupo (1BIM e 2BIM) | 18/04/2026|[Abrir]() | |
 
 
 ---
