@@ -125,11 +125,11 @@ Algo apertou no peito.
 — E o Léo?
 
 >— Ele não lembra. Acho.
-
+>
 >— Como os outros.
-
+>
 >(Pausa.)
-
+>
 >— Olha. Ao que parece só você se lembra ou reconhece que não sou seus pensamentos.
 
 — E o Zeta.

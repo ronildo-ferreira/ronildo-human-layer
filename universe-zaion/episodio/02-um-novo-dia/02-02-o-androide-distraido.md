@@ -167,5 +167,36 @@ Divergência. De novo essa palavra.
 
 — A aula já terminou. Vamos nos atrasar para a próxima.
 
+> **PERFIL DO INDIVÍDUO: ZAHRONIEL (ATUALIZAÇÃO)**
+>
+> **Aparência:** Indivíduo da espécie leão antropomórfico.
+>
+> **Idade Cronológica:** DESCONHECIDA.
+>
+> **Estimativa Comportamental:** Adulto jovem ou adulto.
+>
+> **Base da Estimativa:** Padrões de fala, tomada de decisão, referências culturais e resposta emocional observadas.
+>
+> **Status de Rotina:** INDETERMINADO.
+>
+> **Conflito Interno:** Processo ativo de adaptação à nova realidade. Demonstra crescente aceitação da coexistência com Zaion.
+>
+> **Vínculos Identificados:** Relação de amizade e cooperação com Zaion. Níveis de confiança em crescimento.
+>
+> **Mudanças Recentes:** Alteração significativa de prioridades após interação com Kael.
+>
+> **Observação:** O indivíduo apresenta sinais de reconstrução identitária. Parte de suas memórias permanece inacessível ou fragmentada.
+>
+> **Dados Confirmados:**
+>
+> * Nome: Zahroniel Syrran
+> * Apelido: Zahy
+> * Origem do Apelido: atribuído por Zaion
+>
+> **NÍVEL DE CONFIANÇA DOS DADOS:** 43%
+>
+> **REGISTRO FINALIZADO.**
+
+
 |[` < voltar `](02-01-manha-seguinte.md)| [` avançar > `](02-03-a-confissao.md)|
 |--------|-----|

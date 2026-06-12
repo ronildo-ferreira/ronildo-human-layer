@@ -18,7 +18,7 @@ Os dois começaram a caminhar.
 
 Parecia que tudo estava… mais lento.
 
-Distante.
+Zaion... distante... observava.
 
 Como se o tempo tivesse perdido o ritmo.
 

@@ -179,7 +179,7 @@ Pausa.
 
 >— Infelizmente — ou felizmente — não sei mais dizer.  
 >
->— — Há momentos em que não consigo separar os meus sentimentos dos seus.
+>— Há momentos em que não consigo separar os meus sentimentos dos seus.
 >
 >Silêncio.
 >
@@ -293,7 +293,7 @@ O clima mudou… só um pouco.
 
 — Ah… é verdade — respondeu Zaion.
 
-Na sequência, Alin chega. Uma casa bonita, cheia de flores... um cão latia desesperadamente.
+Na sequência, Alin desembarca. Uma casa bonita, cheia de flores... um cão latia desesperadamente.
 
 — Tchau, Alin! — gritaram os garotos.
 

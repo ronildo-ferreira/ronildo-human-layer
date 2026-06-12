@@ -78,7 +78,7 @@
 
 (Na van, Zaion, introspectivo, conversa com seu novo amigo.)
 
-*Zahroniel… quando você não fala comigo… o que faz?*
+*`Zahroniel… quando você não fala comigo… o que faz?`*
 
 >— Às vezes, eu apenas observo.  Em alguns momentos, sou 100% você. Zahroniel desaparece… e só resta Zaion.
 >
@@ -96,7 +96,7 @@
 >
 >— Me desculpe, por ter te tratado tão mal. Me sinto em divida com você.
 
-*`Não se preocupe, eu ainda não consegui processar totalmente esta situação, mas agora que eu sei o que está acontecendo, em partes, fica mais fácil conviver com você, já pelo jeito seremos inseparáveis'*
+*`Não se preocupe, eu ainda não consegui processar totalmente esta situação, mas agora que eu sei o que está acontecendo, em partes, fica mais fácil conviver com você, já pelo jeito seremos inseparáveis`*
 
 >— É você tem razão.  
 

@@ -102,7 +102,7 @@ Zeta processa.
 
 — Vamos. A aula vai começar.
 
-## É hora da apresentação
+## É hora da apresentação.
 
 — Bom dia, meninos!
 
@@ -136,7 +136,7 @@ Enquanto olha para os slides, Zaion se perde em pensamentos.
 >
 >— São apenas as que você lembra. As mais recentes...
 >
->-O restante… também é um mistério para mim.
+>— O restante… também é um mistério para mim.
 >
 >— Gostaria que você tivesse acesso às minhas.
 >
@@ -205,6 +205,6 @@ Mas, pela primeira vez…
 não parecia sozinho.
 
 
-|[` < voltar `](03-01-auditoria-de-zeta.md)| [` avançar > `](../04-atalhos-e-responsabilidades/04-01-trabalho-chato.md)|
+|[` < voltar `](03-01-auditoria-de-zeta.md)| [` avançar > `](03-03-um-sonho-estranho.md)|
 |--------|-----|
 

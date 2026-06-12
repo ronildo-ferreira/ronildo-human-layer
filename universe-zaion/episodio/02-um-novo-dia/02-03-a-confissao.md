@@ -10,9 +10,13 @@
 
 — Valeu, mano!
 
-— Onde está o Zeta? — pensou Zaion, olhando ao redor. — Lá está ele.
+*`Onde está o Zeta?`*
 
-Zaion se aproximou.
+(Olhou ao redor)
+
+*`Lá está ele.`*
+
+(Zaion se aproximou.)
 
 — Oi, Zeta. Queria falar comigo?  
 
