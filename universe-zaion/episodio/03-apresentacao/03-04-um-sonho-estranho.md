@@ -281,5 +281,5 @@ Depois para o teto.
 *`Definitivamente preciso parar de pensar em tecnologia antes de dormir.`*
 
 
-|[` < voltar `](03-03-um-dez-verdadeiro.md)| [` avançar > `](../04-atalhos-e-responsabilidades/04-01-trabalho-chato.md)|
+|[` < voltar `](03-03-um-dez-verdadeiro.md)| [` avançar > `](03-05-o-acordo.md)|
 |--------|-----|
