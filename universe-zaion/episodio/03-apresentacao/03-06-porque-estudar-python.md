@@ -175,5 +175,5 @@ Por algum motivo...
 ela sentia que aquelas três coisas estavam prestes a se encontrar.
 
 
-|[` < voltar `](03-05-o-acordo.md)| [` avançar > `](../04-atalhos-e-responsabilidades/04-01-trabalho-chato.md)|
+|[` < voltar `](03-05-o-acordo.md)| [` avançar > `](03-07-a-proposta.md)|
 |--------|-----|
