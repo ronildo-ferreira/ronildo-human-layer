@@ -127,7 +127,6 @@ Alin sorriu.
 
 As duas seguiram conversando até o sinal anunciar o início da próxima aula.
 
-python-vs-cpp.md
 
 
 |[` < voltar `](03-06-porque-estudar-python.md)| [` avançar > `](../04-atalhos-e-responsabilidades/04-01-trabalho-chato.md)|

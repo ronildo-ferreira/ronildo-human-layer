@@ -93,7 +93,7 @@ string
 
 ```cpp
 string nome;
-
+cout << "Nome: ";
 cin >> nome;
 ```
 
@@ -234,25 +234,193 @@ def soma(a, b):
 
 # 8. Listas
 
-## C++
+### C++
 
 ```cpp
 vector<string> nomes;
 ```
 
-## Python
+### Python
 
 ```python
 nomes = []
 ```
 
-Adicionar:
+### Adicionar um elemento
 
 ```python
 nomes.append("Alin")
+nomes.append("Leo")
+nomes.append("Zeta")
+```
+
+Resultado:
+
+```text
+['Alin', 'Leo', 'Zeta']
 ```
 
 ---
+
+### Exibir todos os elementos
+
+```python
+print(nomes)
+```
+
+ou
+
+```python
+for nome in nomes:
+    print(nome)
+```
+
+Saída:
+
+```text
+Alin
+Leo
+Zeta
+```
+
+---
+
+### Exibir um elemento específico
+
+```python
+print(nomes[0])
+print(nomes[1])
+print(nomes[2])
+```
+
+Saída:
+
+```text
+Alin
+Leo
+Zeta
+```
+
+---
+
+### Alterar um elemento
+
+```python
+nomes[1] = "Kael"
+```
+
+Resultado:
+
+```text
+['Alin', 'Kael', 'Zeta']
+```
+
+---
+
+### Excluir um elemento pelo valor
+
+```python
+nomes.remove("Kael")
+```
+
+Resultado:
+
+```text
+['Alin', 'Zeta']
+```
+
+---
+
+### Excluir pela posição
+
+```python
+del nomes[0]
+```
+
+Resultado:
+
+```text
+['Zeta']
+```
+
+---
+
+### Limpar toda a lista
+
+```python
+nomes.clear()
+```
+
+Resultado:
+
+```text
+[]
+```
+
+---
+
+### Total de elementos
+
+```python
+print(len(nomes))
+```
+
+Exemplo:
+
+```python
+nomes = ["Alin", "Leo", "Zeta"]
+print(len(nomes))
+```
+
+Saída:
+
+```text
+3
+```
+
+---
+
+### Verificar se existe um elemento
+
+```python
+if "Zeta" in nomes:
+    print("Encontrado")
+else:
+    print("Não encontrado")
+```
+
+---
+
+### Percorrer toda a lista
+
+```python
+for nome in nomes:
+    print(nome)
+```
+
+ou, caso queira a posição:
+
+```python
+for indice, nome in enumerate(nomes):
+    print(indice, nome)
+```
+
+Saída:
+
+```text
+0 Alin
+1 Leo
+2 Zeta
+```
+
+## Observação
+
+> **Python oferece uma das implementações de listas mais completas entre as linguagens de programação modernas.**
+>
+> Com poucas instruções é possível adicionar, remover, pesquisar, ordenar e percorrer grandes quantidades de dados.
+>
+> Durante nossos estudos sobre Inteligência Artificial, utilizaremos listas para armazenar exemplos, resultados de processamento e conjuntos de treinamento. Elas serão uma das estruturas de dados mais importantes ao longo do curso.
+
 
 ## Antes de Escrever Código
 
