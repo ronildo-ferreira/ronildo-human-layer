@@ -129,5 +129,5 @@ As duas seguiram conversando até o sinal anunciar o início da próxima aula.
 
 
 
-|[` < voltar `](03-06-porque-estudar-python.md)| [` avançar > `](../04-atalhos-e-responsabilidades/04-01-trabalho-chato.md)|
+|[` < voltar `](03-06-porque-estudar-python.md)| [` avançar > `](03-08-uma-nova-jornada.md)|
 |--------|-----|

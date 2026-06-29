@@ -1,5 +1,3 @@
-Segue uma primeira versão completa da lista, já no formato de atividade.
-
 # Lista de Exercícios — C++ para Conversão em Python
 
 **Autora:** Kael Elodie Whitmore
