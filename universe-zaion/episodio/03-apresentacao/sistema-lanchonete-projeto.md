@@ -104,3 +104,11 @@ Total vendido no dia
 Exportar relatório para CSV
 Criar backup do arquivo JSON
 ```
+## Vesão inicial
+
+
+| [`Sistema Lanchonete - v1.0`](sistema-lanchonete-programa.md) |
+| -------------------------------------------------------- |
+
+
+
