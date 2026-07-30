@@ -23,7 +23,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Projeto | Dado Eletrônico, Servo Motor e Sensor de Distância (Sensor Ultrassônico) | 19/05/2026|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/sistemas-embarcados-iot/1C2_SistEmbarcados_Atividade05.pdf) | |
+| M1 | Projeto | Dado Eletrônico, Servo Motor e Sensor de Distância (Sensor Ultrassônico) | 11/08/2026|[Abrir](https://github.com/zahroniel-syrran/syrran-tech-academy/blob/main/atividades/sistemas-embarcados-iot/1C2_SistEmbarcados_Atividade05.pdf) | |
 | M2 |  |  | |[Abrir]() | |
 | M4 | Portfólio| Análise do Github do grupo | 16/06/206|[Abrir]() | |
 
