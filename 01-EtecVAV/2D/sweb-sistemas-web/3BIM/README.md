@@ -1,6 +1,6 @@
 # 📅 Cronograma de Entrega de Atividades (3 Bimestre)
 - Turma: 2D
-- Disciplina: DDM - Programação para Dispositiovos Móveis
+- Disciplina: SWEB - Sistemas Web
 
 Este documento apresenta as datas e orientações para a entrega das atividades das disciplinas.
 
@@ -21,21 +21,18 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 
 ---
 - Turma: 2D
-- Disciplina: DDM - Programação para Dispositiovos Móveis
+- Disciplina: SWEB - Sistemas Web
 ## 📋 Cronograma - 3 Bimestre
 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Banco de Dados Local |[TinyDB](atividade-tinydb.md)| 10/08/2026 - No Github | |
-| M2 | Estudo de caso | Apresentação no smatphone e no GitHub os jogos, contendo melhorias | 31/08/2026 | | |
-| M3 | Projeto| Desenvolver um jogo baseado no Estudo de caso (M2) | 21/09/2026 | |
+| M1 | Pesquisa | Criptografia no PHP. Elaborar um página PHP para demonstra os tipos de criptografia desponíveis no PHP | 10/08/2026| | |
+| M2| Desenvolvimento de Aplicativo | Projeto do Site. Apesentar ao menos 3 CRUD completo administrativo e a página index.php do site vísivel para o cliente | (31/08/2026 - Parcial) 21/09/2026 | | |
 | M3 | Portfólio| Análise do Github do grupo | 21/09/2026| | |
 
----
 
 ---
-
 ## ⚠️ Atenção
 
 - Verifique se todos os arquivos estão dentro da pasta correta.
