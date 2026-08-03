@@ -28,10 +28,10 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
 | M1 | Audiovisual | Materiais para apresentação do TCC (05/12/2026). No GitHub | 23/11/2026 | | |
-| M2 | Seminário | Apresentação do TCC (Treinamento). Laboratório, um grupo por vez. | 23/12/2026| | |
+| M2 | Seminário | Apresentação do TCC (Treinamento). Laboratório, um grupo por vez. | 23/11/2026| | |
 | M3 | Feira TCC | Apresentação ao público (05/12/2026, Sábado)|05/12/2026||
 | M4 | Portfólio| Análise do Github do grupo | 07/12/2026| | |
-| M5 | Recuperção| Avaliação Prática (no Laboratório) | 11/12/2026| | |
+| M5 | Recuperção| Avaliação Prática (no Laboratório) | 07/12/2026| | |
 
 ---
 
