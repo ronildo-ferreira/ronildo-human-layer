@@ -1,6 +1,6 @@
 # 📅 Cronograma de Entrega de Atividades (3 Bimestre)
 - Turma: 1D
-- Disciplina: IW - INTERFACE WEB I
+- Disciplina: PA - PROGRAMAÇÃO E ALGORITIMOS
 
 Este documento apresenta as datas e orientações para a entrega das atividades das disciplinas.
 
@@ -18,7 +18,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 ---
 
 - Turma: 1D
-- Disciplina: IW - INTERFACE WEB I
+- Disciplina: PA - PROGRAMAÇÃO E ALGORITIMOS
 ## 📋 Cronograma - 3 Bimestre
 
 
@@ -27,7 +27,6 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 | M1 | Estudo de Caso|  Estudar: [BootStrap](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/content/bootstrap/o-que-e-bootstrap.md). Montar uma página exemplo, aplicando bootstrap. Entrega: GitHub,na pasta da dupla. | 11/08/2026|[Exemplo](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/bootstrap/projeto-bootstrap-python.zip) | Fazer o download do exemplo |
 | M2 | |  | | | |
 | M3 | Portfólio| Análise do Github do grupo | 29/09/2026| | |
-
 ---
 
 ## ⚠️ Atenção
