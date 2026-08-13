@@ -21,11 +21,12 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 - Disciplina: PW1 - PROGRAMAÇÃO WEB I
 ## 📋 Cronograma - 3 Bimestre
 
-
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Lista de Exercício | Estude: [Porque estuduar Python](https://github.com/ronildo-ferreira/ronildo-human-layer/blob/main/universe-zaion/episodio/03-apresentacao/03-06-porque-estudar-python.md). Python vs. C [Ler mais...](https://github.com/ronildo-ferreira/ronildo-human-layer/blob/main/universe-zaion/episodio/03-apresentacao/python-vs-cpp.md). Lista de exercício: [Abrir](https://github.com/ronildo-ferreira/ronildo-human-layer/blob/main/universe-zaion/episodio/03-apresentacao/lista-exercicio-cpp-para-python.md)| 14/08/2026|| |
-| M4 | Portfólio| Análise do Github do grupo | 25/09/2026|[Abrir]() | |
+| M1 | Estudo de Caso|  Estudar: [BootStrap](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/content/bootstrap/o-que-e-bootstrap.md). Montar uma página exemplo, aplicando bootstrap. Entrega: GitHub,na pasta da dupla. | 13/08/2026|[Exemplo](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/bootstrap/projeto-bootstrap-python.zip) | Fazer o download do exemplo |
+| M2 | Construção de Site | Desenvolver um site, com varias página. A página inicial(index.html) e a página sobre(sobre.html) são obrigatórias. Usar BootStrap no desenvolvimento. Temas: Grupo A(Computação em nuvem) e Grupo B (Computação Quantica). | 24/09/2026 | | |
+| M3 | Portfólio| Análise do Github do grupo e pessoal | 24/09/2026| | |
+| M4 | Recuperação| Atividade em Laboratório | 01/10/2026| | |
 
 ---
 
