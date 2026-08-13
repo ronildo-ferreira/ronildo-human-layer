@@ -1,5 +1,5 @@
 # 📅 Cronograma de Entrega de Atividades (3 Bimestre)
-- Turma: 2C2
+- Turma: 2C
 - Disciplina: PW2 - PROGRAMAÇÃO WEB II
 
 Este documento apresenta as datas e orientações para a entrega das atividades das disciplinas.
@@ -20,16 +20,16 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 ## 📋 Cronograma
 
 ---
-- Turma: 2C2
+- Turma: 2C
 - Disciplina: PW2 - PROGRAMAÇÃO WEB II
 ## 📋 Cronograma - 3 Bimestre
 
 
 | Menção | Tipo| Atividade | Data Entrega |Link | Obs|
 |--------|-----|-----|-----|-|-|
-| M1 | Pesquisa | Criptografia no PHP. Elaborar um página PHP para demonstra os tipos de criptografia desponíveis no PHP | 13/08/2026| | |
-| M2| Desenvolvimento de Aplicativo | Projeto do Site. Apesentar ao menos 3 CRUD completo administrativo e a página index.php do site vísivel para o cliente | (27/08/2026 - Parcial) 24/09/2026 | | |
-| M3 | Portfólio| Análise do Github do grupo | 24/09/2026| | |
+| M1 | Pesquisa | Criptografia no PHP. Elaborar um página PHP para demonstra os tipos de criptografia desponíveis no PHP | 14/08/2026| | |
+| M2| Desenvolvimento de Aplicativo | Projeto do Site. Apesentar ao menos 3 CRUD completo administrativo e a página index.php do site vísivel para o cliente | (28/08/2026 - Parcial) 25/09/2026 | | |
+| M3 | Portfólio| Análise do Github do grupo | 25/09/2026| | |
 
 ---
 ## ⚠️ Atenção
