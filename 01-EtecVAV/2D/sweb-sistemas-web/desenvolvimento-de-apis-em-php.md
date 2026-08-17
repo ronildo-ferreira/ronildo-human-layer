@@ -1,4 +1,4 @@
-## Leia atentamente o texto.
+## Leia atentamente o texto. Implempente o código que exite no final do texto.
 
 # Aula — Introdução ao desenvolvimento de APIs em PHP
 
