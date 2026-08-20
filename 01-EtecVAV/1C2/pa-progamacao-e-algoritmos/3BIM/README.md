@@ -26,7 +26,7 @@ Este documento apresenta as datas e orientações para a entrega das atividades 
 |--------|-----|-----|-----|-|-|
 | M1 | Lista de Exercício | Estude: [Porque estuduar Python](https://github.com/ronildo-ferreira/ronildo-human-layer/blob/main/universe-zaion/episodio/03-apresentacao/03-06-porque-estudar-python.md). Python vs. C [Ler mais...](https://github.com/ronildo-ferreira/ronildo-human-layer/blob/main/universe-zaion/episodio/03-apresentacao/python-vs-cpp.md). Lista de exercício: [Abrir](https://github.com/ronildo-ferreira/ronildo-human-layer/blob/main/universe-zaion/episodio/03-apresentacao/lista-exercicio-cpp-para-python.md)| 13/08/2026|| |
 | M2 | Estudo de Caso |Após testar o "Sistema Lanchonete", a turma A irá implementar:Alterar preço de produto; Remover produto; Pesquisar produto por nome; Relatório de vendas. A truma B irá implementar: Produto mais vendido; Total vendido no dia; Exportar relatório para CSV; Criar backup do arquivo JSON. Publicar no GitHub do grupo. | 24/09/2026|[Abrir]() | |
-| M3 | Seminário | Apresentação do sistema. Dois alunos da turma A e dois da turma B irão apresentar o Sistema Lanchonete com todos as funcinalidades integradas. | 24/09/2026| | Os representates irão criar um repositório, público para o projeto. |
+| M3 | Seminário | Apresentação do sistema. Dois alunos da turma A e dois da turma B irão apresentar o Sistema Lanchonete com todas as funcinalidades integradas. | 24/09/2026| | Os representates irão criar um repositório, público para o projeto. |
 | M4 | Portfólio| Análise do Github do grupo | 24/09/2026| | |
 
 
