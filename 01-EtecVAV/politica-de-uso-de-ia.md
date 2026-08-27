@@ -1,41 +1,100 @@
 # Política de Uso de Inteligência Artificial em Atividades Acadêmicas
 
+## Convenções utilizadas neste documento
+
+Para tornar esta Política mais clara, objetiva e aplicável a diferentes disciplinas, modalidades de atividade e formas de avaliação, alguns termos serão utilizados com significado mais amplo ao longo do documento.
+
+### Uso do termo “aluno”
+
+Nesta Política, o termo **aluno** representa o responsável pela realização da atividade.
+
+Conforme a modalidade definida pelo professor, o termo poderá representar **um estudante, uma dupla ou um grupo de estudantes**.
+
+Assim, uma orientação como:
+
+> “O aluno deverá consultar as fontes utilizadas e verificar as informações apresentadas.”
+
+deverá ser aplicada à unidade responsável pela atividade, seja ela individual ou coletiva.
+
+Quando uma orientação se referir especificamente à **participação ou responsabilidade individual**, isso será indicado de forma explícita por expressões como **“cada aluno”**, **“cada integrante”** ou **“cada integrante do grupo”**.
+
+### Uso do termo “atividade”
+
+O termo **atividade** será utilizado para representar qualquer produção acadêmica ou educacional solicitada ao aluno, independentemente de sua modalidade, formato ou complexidade.
+
+O termo poderá representar, entre outros:
+
+* exercícios e listas de exercícios;
+* pesquisas e trabalhos acadêmicos;
+* relatórios e artigos;
+* projetos e produtos;
+* programas, códigos e sistemas;
+* apresentações;
+* atividades práticas;
+* Trabalhos de Conclusão de Curso (TCC).
+
+Quando determinada orientação for exclusiva de um tipo específico de atividade, isso será indicado expressamente no texto.
+
+Assim, uma regra como:
+
+> “O aluno é responsável pelo conteúdo apresentado na atividade.”
+
+aplica-se a qualquer uma das modalidades abrangidas por esta Política.
+
+
+### Uso do termo “banca”
+
+Nesta Política, o termo **banca** será utilizado para representar a pessoa ou o conjunto de pessoas responsáveis por **orientar, acompanhar, analisar ou avaliar uma atividade**.
+
+Conforme a situação, o termo poderá representar **o professor, os professores, o orientador, os orientadores ou uma banca de avaliação**.
+
+Assim, uma orientação como:
+
+> “A banca poderá solicitar que o aluno explique como determinada parte da atividade foi desenvolvida.”
+
+deverá ser entendida de acordo com a forma de acompanhamento ou avaliação estabelecida para aquela atividade.
+
+Quando uma orientação se referir especificamente a um dos participantes desse processo, como **professor, orientador ou banca de TCC**, isso será indicado expressamente no texto.
+
+---
+
 ## 1. Objetivo
 
-Esta política estabelece orientações para o uso de ferramentas de Inteligência Artificial (IA) nas **atividades acadêmicas**, incluindo pesquisas, exercícios, trabalhos, projetos, relatórios, códigos, apresentações e Trabalhos de Conclusão de Curso (TCC).
+Esta Política estabelece princípios e orientações para o uso de ferramentas de **Inteligência Artificial (IA)** nas atividades desenvolvidas pelos alunos.
 
-Para simplificar a leitura deste documento, o termo **“Atividade”** será utilizado para representar qualquer atividade acadêmica desenvolvida pelo estudante, individualmente ou em grupo.
+As ferramentas de IA fazem parte do atual ambiente educacional, tecnológico e profissional e podem ser utilizadas como recursos de apoio à aprendizagem, pesquisa e desenvolvimento, desde que seu uso respeite os critérios estabelecidos nesta Política e as orientações específicas de cada atividade.
 
-Da mesma forma, o termo **“responsável pela avaliação”** será utilizado para representar o professor, os professores, o orientador ou a banca responsável pelo acompanhamento ou avaliação da atividade.
+A utilização de IA não transfere para a ferramenta a autoria nem a responsabilidade pelo conteúdo produzido.
 
-Ferramentas de Inteligência Artificial fazem parte do atual ambiente educacional e profissional e podem ser utilizadas como **ferramentas de apoio à aprendizagem e ao desenvolvimento das atividades**, respeitando as orientações estabelecidas neste documento.
+> **A IA pode auxiliar o aluno, mas não pode substituir sua participação, seu conhecimento e sua responsabilidade intelectual e técnica.**
 
-Seu uso não transfere para a IA a autoria nem a responsabilidade pelo trabalho realizado.
-
-> **A IA pode auxiliar o estudante, mas não pode substituir sua participação, seu conhecimento e sua responsabilidade intelectual e técnica.**
-
-Todo estudante deve compreender, verificar e ser capaz de explicar os conteúdos, códigos, análises, decisões e demais materiais apresentados como parte de sua atividade.
-
+O aluno é responsável por compreender, verificar e ser capaz de explicar os conteúdos, códigos, análises, decisões e demais materiais apresentados em sua atividade.
 
 ---
 
 # 2. Princípios para o uso de IA
 
-O uso de Inteligência Artificial na **“Atividade”** deverá seguir quatro princípios:
+O uso de Inteligência Artificial na **atividade** deverá seguir quatro princípios:
 
-**Transparência:** o grupo deve informar quando, onde e para qual finalidade utilizou IA.
+**Transparência:** o aluno deve informar quando, onde e para qual finalidade utilizou IA.
 
-**Responsabilidade:** o grupo é responsável pelo conteúdo entregue, mesmo quando parte dele foi produzida com auxílio de uma IA.
+**Responsabilidade:** o aluno é responsável pelo conteúdo entregue, mesmo quando parte dele foi produzida com auxílio de uma IA.
 
 **Verificação:** informações, referências, códigos, cálculos e outros resultados fornecidos por IA devem ser verificados antes de serem utilizados.
 
-**Domínio:** os integrantes devem compreender e conseguir explicar aquilo que apresentam.
+**Domínio:** cada **aluno** deve compreender a **atividade** como um todo e ser capaz de explicar seus objetivos, desenvolvimento, principais decisões e resultados, e não somente a parte pela qual foi diretamente responsável. Espera-se, entretanto, maior domínio sobre as atividades que executou diretamente.
+
+**Domínio:** cada **estudante** deve compreender e conseguir explicar aquilo que é apresentado na **Atividade** como um todo, e não somente a sua parte.
 
 Uma resposta como:
 
 > “Foi a IA que fez.”
 
-não elimina a responsabilidade do grupo.
+ ou
+
+> “Esta parte não fui eu quem fez.”
+
+não elimina a responsabilidade do **estudante**.
 
 ---
 
@@ -77,14 +136,69 @@ A declaração deverá informar, no mínimo:
 
 Quando possível, também poderá ser informado o modelo ou versão utilizada.
 
-### Exemplo
+### Exemplo de apresentação da declaração
+
+> **NÃO ALTERAR O TÍTULO “DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL”.**
+
+A **DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL** deverá ser incluída em local adequado ao formato da **atividade**, de forma que possa ser facilmente localizada pela **banca**.
+
+Sugestões de localização:
+
+| Tipo de atividade                  | Local da declaração                                                     |
+| ---------------------------------- | ----------------------------------------------------------------------- |
+| Artigo, relatório ou documento     | Ao final do texto, antes das **REFERÊNCIAS**                            |
+| Código-fonte                       | No cabeçalho do arquivo principal, utilizando comentários               |
+| Site ou aplicação Web              | Na página ou seção **Sobre**                                            |
+| Projeto com documentação no GitHub | No arquivo `README.md` ou em arquivo específico indicado pela **banca** |
+| Outros formatos                    | Em local definido pela **banca**                                        |
+
+A declaração deverá informar, no mínimo:
+
+* **Ferramenta:** qual ferramenta de IA foi utilizada;
+* **Etapa:** em qual etapa ou parte da atividade foi utilizada;
+* **Finalidade:** para que a ferramenta foi utilizada;
+* **Validação:** como o aluno analisou, verificou ou testou o resultado obtido.
+
+#### Exemplo em artigo, relatório, README ou documento
+
+### DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL
 
 | Ferramenta               | Etapa           | Finalidade                                     | Validação                              |
 | ------------------------ | --------------- | ---------------------------------------------- | -------------------------------------- |
-| ChatGPT                  | Desenvolvimento | Auxílio na identificação de erro em código PHP | Código analisado e testado pelo grupo  |
-| GitHub Copilot           | Desenvolvimento | Sugestões e autocompletar código               | Código revisado e testado              |
-| ChatGPT                  | Artigo          | Revisão de clareza de alguns parágrafos        | Texto revisado pelos autores           |
-| IA generativa de imagens | Produto         | Produção de imagem para a interface            | Imagem analisada e adaptada pelo grupo |
+| ChatGPT                  | Desenvolvimento | Auxílio na identificação de erro em código PHP | Código analisado e testado pelo aluno  |
+| GitHub Copilot           | Desenvolvimento | Sugestões e autocompletar código               | Código revisado e testado pelo aluno   |
+| ChatGPT                  | Artigo          | Revisão da clareza de alguns parágrafos        | Texto revisado pelo aluno              |
+| IA generativa de imagens | Produto         | Produção de imagem para a interface            | Imagem analisada e adaptada pelo aluno |
+
+#### Exemplo em código PHP
+
+```php
+/*
+DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL
+
+Ferramenta: ChatGPT
+Etapa: Desenvolvimento
+Finalidade: Auxílio na identificação de erro em código PHP.
+Validação: Código analisado, corrigido e testado pelo aluno.
+*/
+```
+
+#### Exemplo em código HTML
+
+```html
+<!--
+DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL
+
+Ferramenta: ChatGPT
+Etapa: Desenvolvimento
+Finalidade: Auxílio na organização da estrutura HTML e
+na identificação de erros de marcação.
+Validação: Código analisado, ajustado e testado pelo aluno.
+-->
+```
+
+> **Importante:** os exemplos acima são apenas orientativos. O aluno deverá declarar as ferramentas e os usos que **efetivamente ocorreram durante a realização da atividade**.
+
 
 A declaração deve ser **específica**.
 
