@@ -84,8 +84,6 @@ O uso de Inteligência Artificial na **atividade** deverá seguir quatro princí
 
 **Domínio:** cada **aluno** deve compreender a **atividade** como um todo e ser capaz de explicar seus objetivos, desenvolvimento, principais decisões e resultados, e não somente a parte pela qual foi diretamente responsável. Espera-se, entretanto, maior domínio sobre as atividades que executou diretamente.
 
-**Domínio:** cada **estudante** deve compreender e conseguir explicar aquilo que é apresentado na **Atividade** como um todo, e não somente a sua parte.
-
 Uma resposta como:
 
 > “Foi a IA que fez.”
@@ -209,6 +207,24 @@ Evite:
 Prefira:
 
 > “O ChatGPT foi utilizado durante o desenvolvimento do produto para auxiliar na identificação de erros em funções PHP. As sugestões foram analisadas pelos integrantes e o código resultante foi testado antes de sua utilização.”
+
+### Atividades que possuem Metodologia
+
+Quando a **atividade** possuir uma seção destinada à descrição da **Metodologia**, e houver utilização de ferramentas de Inteligência Artificial durante o processo de pesquisa ou desenvolvimento, essa utilização deverá ser mencionada também na Metodologia.
+
+A informação deverá ser apresentada de forma breve, preferencialmente no **último parágrafo da Metodologia**, indicando de maneira geral como a IA participou do processo. O detalhamento das ferramentas, etapas, finalidades e formas de validação deverá permanecer na **DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL**.
+
+#### Exemplo
+
+> Durante o desenvolvimento do projeto foram utilizadas ferramentas de Inteligência Artificial como apoio à revisão de código e à comparação de possíveis soluções. As respostas obtidas foram analisadas, verificadas e testadas pelo aluno. As ferramentas utilizadas, suas finalidades, etapas de utilização e formas de validação encontram-se detalhadas na **DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL**, apresentada ao final **desta atividade**.
+
+### Quando não houver uso de IA
+
+Como **todos devem fazer a declaração**, use:
+
+> Durante o desenvolvimento do projeto não foram utilizadas ferramentas de Inteligência Artificial. Essa informação encontra-se registrada na **DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL**, apresentada ao final **desta atividade**.
+
+O aluno deverá substituir a expressão “**desta atividade**” pelo termo correspondente ao formato solicitado, como “**deste artigo**”, “**deste relatório**” ou “**desta monografia**”. Essa adequação deverá ser feita de acordo com o tipo de atividade desenvolvida, mantendo a coerência entre a declaração e o documento apresentado.
 
 ---
 
