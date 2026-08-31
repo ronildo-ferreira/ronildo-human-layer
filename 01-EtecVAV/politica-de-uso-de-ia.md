@@ -611,3 +611,22 @@ Para sua elaboração, foi utilizada ferramenta de Inteligência Artificial como
 
 O conteúdo final, as regras adotadas e as decisões sobre sua aplicação são de responsabilidade do **autor responsável pela Política**. As sugestões fornecidas pela ferramenta de IA foram analisadas e, quando necessário, modificadas antes de sua incorporação ao documento.
 
+## Licença
+
+Este documento está licenciado sob a **Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.
+
+Esta licença permite **copiar, compartilhar, adaptar e modificar** este material, desde que sejam respeitadas as seguintes condições:
+
+* **Atribuição (BY):** deverá ser dado o devido crédito ao autor, indicando a autoria do material;
+* **NãoComercial (NC):** o material não poderá ser utilizado para fins comerciais;
+* **CompartilhaIgual (SA):** adaptações ou trabalhos derivados deverão ser distribuídos sob a mesma licença.
+
+**Autor:** Ronildo A. Ferreira
+
+**Licença:** Creative Commons CC BY-NC-SA 4.0
+
+[Creative Commons — CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br?utm_source=chatgpt.com)
+
+> A licença aplica-se ao conteúdo original deste documento. Materiais de terceiros eventualmente citados, reproduzidos ou referenciados permanecem sujeitos às respectivas licenças e direitos autorais.
+
+
